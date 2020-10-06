@@ -26,12 +26,9 @@ The project’s goal is to provide an easy way of finding potential diseases bas
 
 ## Datasets:
 
-We arrived at the conclusion that the dataset from Kaggle is not reliable as its source is unknown and not trustworthy. The NHS pages are not structured the same way for every disease, so it would make scraping difficult.
-
 For a structured dataset, we will use wikidata, which associates diseases to symptoms, treatments, and other variables that we can use to organize this information. An example of a disease in wikidata is: https://www.wikidata.org/wiki/Q11081
 
 For obtaining textual data, we’re considering using either Wikipedia or the World Health Organization website, which possesses an overview for each disease, such as in the following example: https://www.who.int/health-topics/cervical-cancer
-
 
 ## Group 6:
 
