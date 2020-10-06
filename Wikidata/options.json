@@ -1,15 +1,6 @@
 {
   "queries": ["labels", "descriptions"],
-  "languages": [
-    {
-      "name": "English",
-      "code": "en"
-    },
-    {
-      "name": "French",
-      "code": "fr"
-    }
-  ],
+  "languages": ["en", "fr"],
   "properties": [
     {
       "name": "Causes",
