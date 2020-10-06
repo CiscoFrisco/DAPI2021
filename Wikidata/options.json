@@ -1,0 +1,35 @@
+{
+  "queries": ["labels", "descriptions"],
+  "languages": [
+    {
+      "name": "English",
+      "code": "en"
+    },
+    {
+      "name": "French",
+      "code": "fr"
+    }
+  ],
+  "properties": [
+    {
+      "name": "Causes",
+      "code": "P828"
+    },
+    {
+      "name": "Symptoms",
+      "code": "P780"
+    },
+    {
+      "name": "Specialty",
+      "code": "P1995"
+    },
+    {
+      "name": "Drugs",
+      "code": "P2176"
+    },
+    {
+      "name": "Treatments",
+      "code": "P924"
+    }
+  ]
+}

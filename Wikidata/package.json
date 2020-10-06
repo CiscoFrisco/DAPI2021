@@ -1,0 +1,15 @@
+{
+  "name": "dapi",
+  "version": "1.0.0",
+  "description": "Api to retrieve data from wikidata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "wikidata-sdk": "^7.7.1"
+  }
+}
