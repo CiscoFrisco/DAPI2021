@@ -2,12 +2,14 @@ import scrapy
 from scrapy.selector import Selector
 from bs4 import BeautifulSoup
 import re
-
+import json
+import os
 
 class DiseaseSpider(scrapy.Spider):
     name = "disease"
 
     def start_requests(self):
+        read_from_json()
         urls = [
             'https://en.wikipedia.org/wiki/Alzheimer%27s_disease',
         ]
@@ -28,3 +30,7 @@ class DiseaseSpider(scrapy.Spider):
         print("\n\nheading: " + heading + "\n\n")
         print("\n\nbody: " + overview + "\n\n")
 
+def read_from_json():
+    file_name = '../Wikidata/diseases.json'
+    f = open(file_name, "r")
+    print(f.read())
