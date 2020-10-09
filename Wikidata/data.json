@@ -1,0 +1,56 @@
+[
+  {
+    "id": "Q11081",
+    "name": "Alzheimer's disease",
+    "descriptions": "progressive, neurodegenerative disease characterized by memory loss",
+    "Causes": [{ "id": "Q24238356", "name": "unknown" }],
+    "Symptoms": [
+      { "id": "Q30141616", "name": "memory loss that disrupts daily life" },
+      { "id": "Q30141302", "name": "confusion with time and space" },
+      {
+        "id": "Q30141343",
+        "name": "challenges in planning or solving problems"
+      },
+      {
+        "id": "Q30141359",
+        "name": "difficulty completing familiar tasks at home, at work or at leisure"
+      },
+      {
+        "id": "Q30141517",
+        "name": "trouble understanding visual images and spatial relationships"
+      },
+      { "id": "Q30141399", "name": "decreased or poor judgment" },
+      {
+        "id": "Q30141432",
+        "name": "withdrawal from work or social activities"
+      },
+      {
+        "id": "Q30141385",
+        "name": "problems with words in speaking or writing"
+      },
+      { "id": "Q30141414", "name": "changes in mood and personality" },
+      {
+        "id": "Q30141588",
+        "name": "misplacing things and losing the ability to retrace steps"
+      },
+      { "id": "Q83030", "name": "dementia" }
+    ],
+    "Specialty": [{ "id": "Q83042", "name": "neurology" }],
+    "Drugs": [
+      { "id": "Q408535", "name": "quetiapine" },
+      { "id": "Q411188", "name": "aripiprazole" },
+      { "id": "Q412690", "name": "galantamine" },
+      { "id": "Q415081", "name": "donepezil" },
+      { "id": "Q412443", "name": "risperidone" },
+      { "id": "Q412189", "name": "memantine" },
+      { "id": "Q411887", "name": "rivastigmine" },
+      { "id": "Q416361", "name": "pyritinol" }
+    ],
+    "Treatments": [
+      { "id": "Q412189", "name": "memantine" },
+      { "id": "Q415081", "name": "donepezil" },
+      { "id": "Q411887", "name": "rivastigmine" },
+      { "id": "Q412690", "name": "galantamine" }
+    ]
+  }
+]

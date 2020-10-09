@@ -1,4 +1,5 @@
 const fetch = require("node-fetch");
+const fs = require("fs");
 const wdk = require("wikidata-sdk");
 const diseases = require("./diseases.json");
 const options = require("./options.json");
@@ -6,7 +7,7 @@ const options = require("./options.json");
 const URL = "https://www.wikidata.org/w/api.php";
 
 const SEP = "%7C";
-const LANGUAGES = options.languages.join(SEP);
+const LANGUAGE = options.language;
 const PROPS = ["labels" + SEP + "descriptions" + SEP + "claims", "labels"];
 
 var result = [];
@@ -19,12 +20,13 @@ const fetchAllData = async () => {
   for (var i = 0; i < diseases.length; i++) {
     await fetchWikiData(diseases[i], 0);
     if (i != diseases.length - 1) {
-      console.log("Waiting 6 seconds until next request!");
-      await sleep(6000);
+      console.log("Waiting 5 seconds until next request!");
+      await sleep(5000);
     }
   }
 
   console.log(result);
+  saveData();
 };
 
 const getURL = (IDs, propType) => {
@@ -34,7 +36,7 @@ const getURL = (IDs, propType) => {
     IDs +
     "&format=json" +
     "&languages=" +
-    LANGUAGES +
+    LANGUAGE +
     "&props=" +
     PROPS[propType]
   );
@@ -43,7 +45,7 @@ const getURL = (IDs, propType) => {
 const fetchWikiData = async (ID, propType) => {
   const URL = getURL(ID, propType);
   console.log(URL);
-  const response = await fetch(URL);
+  const response = await fetch(URL).catch((err) => console.log("ERROR"));
   const myJSON = await response.json(); //extract JSON from the http response
 
   await parseJSON(myJSON);
@@ -71,7 +73,9 @@ const parseJSON = async (response) => {
 const parseOptionQueries = (entity, obj) => {
   for (let i = 0; i < options.queries.length; i++) {
     const query = options.queries[i];
-    obj[query] = entity[options.queries[i]];
+    if (query == "labels")
+      obj["name"] = entity[options.queries[i]][LANGUAGE].value;
+    else obj[query] = entity[options.queries[i]][LANGUAGE].value;
   }
 };
 
@@ -87,7 +91,7 @@ const getPropertyData = async (claims, property, obj) => {
   Object.keys(prop.entities).map((key) =>
     obj[property.name].push({
       id: prop.entities[key].id,
-      labels: prop.entities[key].labels,
+      name: prop.entities[key].labels.en.value,
     })
   );
 };
@@ -111,30 +115,13 @@ const requestProperty = async (claims, key) => {
   }
 };
 
-const fetchTest = () => {
-  const ids = [
-    "Q30141616",
-    "Q30141302",
-    "Q30141343",
-    "Q30141359",
-    "Q30141517",
-    "Q30141399",
-    "Q30141432",
-    "Q30141385",
-    "Q30141414",
-    "Q30141588",
-    "Q83030",
-  ];
+const saveData = () => {
+  fs.writeFile("data.json", JSON.stringify(result), "utf8", function (err) {
+    if (err) {
+      console.log("An error occured while writing JSON Object to File.");
+      return console.log(err);
+    }
 
-  const url = wdk.getEntities({
-    ids: ids,
-    languages: ["en", "fr"],
-    format: "json",
-    props: ["info", "claims"],
-    redirections: true, // defaults to true
+    console.log("JSON file has been saved.");
   });
-
-  console.log(url);
 };
-
-// fetchTest();
