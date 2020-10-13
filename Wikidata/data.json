@@ -1,56 +1,115 @@
 [
   {
-    "id": "Q11081",
-    "name": "Alzheimer's disease",
-    "descriptions": "progressive, neurodegenerative disease characterized by memory loss",
-    "Causes": [{ "id": "Q24238356", "name": "unknown" }],
-    "Symptoms": [
-      { "id": "Q30141616", "name": "memory loss that disrupts daily life" },
-      { "id": "Q30141302", "name": "confusion with time and space" },
+    "id": "Q1001150",
+    "name": "fibrillation",
+    "descriptions": "irregular movement of muscle fibers",
+    "Causes": [],
+    "Symptoms": [],
+    "Specialty": [],
+    "Drugs": [],
+    "Treatments": []
+  },
+  {
+    "id": "Q1004647",
+    "name": "bullous pemphigoid",
+    "descriptions": "autoimmune disease of skin and connective tissue characterized by large blisters",
+    "Causes": [],
+    "Symptoms": [],
+    "Specialty": [
       {
-        "id": "Q30141343",
-        "name": "challenges in planning or solving problems"
-      },
-      {
-        "id": "Q30141359",
-        "name": "difficulty completing familiar tasks at home, at work or at leisure"
-      },
-      {
-        "id": "Q30141517",
-        "name": "trouble understanding visual images and spatial relationships"
-      },
-      { "id": "Q30141399", "name": "decreased or poor judgment" },
-      {
-        "id": "Q30141432",
-        "name": "withdrawal from work or social activities"
-      },
-      {
-        "id": "Q30141385",
-        "name": "problems with words in speaking or writing"
-      },
-      { "id": "Q30141414", "name": "changes in mood and personality" },
-      {
-        "id": "Q30141588",
-        "name": "misplacing things and losing the ability to retrace steps"
-      },
-      { "id": "Q83030", "name": "dementia" }
+        "id": "Q171171",
+        "name": "dermatology",
+        "url": "https://en.wikipedia.org/wiki/Dermatology"
+      }
     ],
-    "Specialty": [{ "id": "Q83042", "name": "neurology" }],
     "Drugs": [
-      { "id": "Q408535", "name": "quetiapine" },
-      { "id": "Q411188", "name": "aripiprazole" },
-      { "id": "Q412690", "name": "galantamine" },
-      { "id": "Q415081", "name": "donepezil" },
-      { "id": "Q412443", "name": "risperidone" },
-      { "id": "Q412189", "name": "memantine" },
-      { "id": "Q411887", "name": "rivastigmine" },
-      { "id": "Q416361", "name": "pyritinol" }
+      {
+        "id": "Q3976827",
+        "name": "sulfapyridine",
+        "url": "https://en.wikipedia.org/wiki/Sulfapyridine"
+      },
+      {
+        "id": "Q424972",
+        "name": "prednisone",
+        "url": "https://en.wikipedia.org/wiki/Prednisone"
+      },
+      {
+        "id": "Q422232",
+        "name": "methotrexate",
+        "url": "https://en.wikipedia.org/wiki/Methotrexate"
+      },
+      {
+        "id": "Q11426176",
+        "name": "prednisolone",
+        "url": "https://en.wikipedia.org/wiki/Prednisolone"
+      },
+      { "id": "Q4567614", "name": "mycophenolate mofetil", "url": "none" },
+      {
+        "id": "Q412323",
+        "name": "rituximab",
+        "url": "https://en.wikipedia.org/wiki/Rituximab"
+      }
     ],
-    "Treatments": [
-      { "id": "Q412189", "name": "memantine" },
-      { "id": "Q415081", "name": "donepezil" },
-      { "id": "Q411887", "name": "rivastigmine" },
-      { "id": "Q412690", "name": "galantamine" }
-    ]
+    "Treatments": []
+  },
+  {
+    "id": "Q1016605",
+    "name": "Burkitt lymphoma",
+    "descriptions": "mature B-cell neoplasm of B-cells found in the germinal center",
+    "Causes": [
+      {
+        "id": "Q5384031",
+        "name": "Epstein–Barr virus infection",
+        "url": "https://en.wikipedia.org/wiki/Epstein%E2%80%93Barr_virus_infection"
+      }
+    ],
+    "Symptoms": [],
+    "Specialty": [
+      {
+        "id": "Q103824",
+        "name": "hematology",
+        "url": "https://en.wikipedia.org/wiki/Hematology"
+      }
+    ],
+    "Drugs": [
+      {
+        "id": "Q408524",
+        "name": "cyclophosphamide",
+        "url": "https://en.wikipedia.org/wiki/Cyclophosphamide"
+      }
+    ],
+    "Treatments": []
+  },
+  {
+    "id": "Q1017169",
+    "name": "Buruli ulcer disease",
+    "descriptions": "tropical disease",
+    "Causes": [
+      {
+        "id": "Q166231",
+        "name": "infection",
+        "url": "https://en.wikipedia.org/wiki/Infection"
+      }
+    ],
+    "Symptoms": [],
+    "Specialty": [
+      {
+        "id": "Q788926",
+        "name": "infectious disease",
+        "url": "https://en.wikipedia.org/wiki/Infectious_disease_(medical_specialty)"
+      }
+    ],
+    "Drugs": [],
+    "Treatments": []
+  },
+  {
+    "id": "Q1018534",
+    "name": "progressive familial intrahepatic cholestasis",
+    "descriptions": "intrahepatic cholestasis characterized by early onset of chronic unremitting cholestasis of hepatocellular origin that progresses to hepatic fibrosis, cirrhosis, and end-stage liver disease before adulthood",
+    "Causes": [],
+    "Symptoms": [],
+    "Specialty": [],
+    "Drugs": [],
+    "Treatments": []
   }
 ]

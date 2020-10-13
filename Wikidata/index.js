@@ -1,32 +1,68 @@
 const fetch = require("node-fetch");
 const fs = require("fs");
 const wdk = require("wikidata-sdk");
-const diseases = require("./diseases.json");
+const diseases = require("../diseases.json");
 const options = require("./options.json");
+const data = require("./data.json");
 
 const URL = "https://www.wikidata.org/w/api.php";
 
 const SEP = "%7C";
 const LANGUAGE = options.language;
-const PROPS = ["labels" + SEP + "descriptions" + SEP + "claims", "labels"];
+const PROPS = [
+  "labels" + SEP + "descriptions" + SEP + "claims",
+  "labels" + SEP + "sitelinks",
+];
 
-var result = [];
+var retrieveData = [];
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
+const saveData = () => {
+  data.push(...retrieveData);
+  retrieveData = [];
+
+  fs.writeFile("data.json", JSON.stringify(data), "utf8", function (err) {
+    if (err) {
+      console.log("An error occured while writing JSON Object to File.");
+      return console.log(err);
+    }
+
+    console.log("Data JSON file has been saved.");
+  });
+};
+
 const fetchAllData = async () => {
+  let counter = 0;
+
   for (var i = 0; i < diseases.length; i++) {
-    await fetchWikiData(diseases[i], 0);
-    if (i != diseases.length - 1) {
-      console.log("Waiting 5 seconds until next request!");
-      await sleep(5000);
+    let found = false;
+    for (var j = 0; j < data.length; j++) {
+      if (data[j].id == diseases[i].id) {
+        found = true;
+        break;
+      }
+    }
+
+    if (!found) {
+      await fetchWikiData(diseases[i].id, 0);
+      counter++;
+
+      if (counter % 5 === 0 && counter != 0) {
+        saveData();
+      }
+
+      if (i != diseases.length - 1) {
+        console.log("Waiting 5 seconds until next request!");
+        await sleep(5000);
+      } else {
+        saveData();
+      }
     }
   }
-
-  console.log(result);
-  saveData();
+  console.log("Finished information retrieval");
 };
 
 const getURL = (IDs, propType) => {
@@ -45,7 +81,7 @@ const getURL = (IDs, propType) => {
 const fetchWikiData = async (ID, propType) => {
   const URL = getURL(ID, propType);
   console.log(URL);
-  const response = await fetch(URL).catch((err) => console.log("ERROR"));
+  const response = await fetch(URL);
   const myJSON = await response.json(); //extract JSON from the http response
 
   await parseJSON(myJSON);
@@ -53,6 +89,7 @@ const fetchWikiData = async (ID, propType) => {
 
 // fetchWikiData(diseases[0], 0);
 fetchAllData();
+// getURL("Q12312", 1);
 
 const parseJSON = async (response) => {
   let obj = new Object();
@@ -67,7 +104,7 @@ const parseJSON = async (response) => {
     await sleep(Math.floor(Math.random() * 100));
   }
 
-  result.push(obj);
+  retrieveData.push(obj);
 };
 
 const parseOptionQueries = (entity, obj) => {
@@ -79,21 +116,31 @@ const parseOptionQueries = (entity, obj) => {
   }
 };
 
-const getPropertyData = async (claims, property, obj) => {
-  try {
-    var prop = await requestProperty(claims, property.code);
-  } catch (err) {
-    console.log(err);
+const decodePropertyUrl = (sitelinks) => {
+  if (sitelinks["enwiki"] !== undefined) {
+    return (
+      "https://en.wikipedia.org/wiki/" +
+      encodeURI(sitelinks["enwiki"].title).replace(/%20/g, "_")
+    );
   }
+
+  return "none";
+};
+
+const getPropertyData = async (claims, property, obj) => {
+  var prop = await requestProperty(claims, property.code);
 
   obj[property.name] = [];
 
-  Object.keys(prop.entities).map((key) =>
-    obj[property.name].push({
-      id: prop.entities[key].id,
-      name: prop.entities[key].labels.en.value,
-    })
-  );
+  if (prop !== null) {
+    Object.keys(prop.entities).map((key) =>
+      obj[property.name].push({
+        id: prop.entities[key].id,
+        name: prop.entities[key].labels.en.value,
+        url: decodePropertyUrl(prop.entities[key].sitelinks),
+      })
+    );
+  }
 };
 
 const requestProperty = async (claims, key) => {
@@ -113,15 +160,6 @@ const requestProperty = async (claims, key) => {
       .then((response) => response.json())
       .catch((err) => console.log(err));
   }
-};
 
-const saveData = () => {
-  fs.writeFile("data.json", JSON.stringify(result), "utf8", function (err) {
-    if (err) {
-      console.log("An error occured while writing JSON Object to File.");
-      return console.log(err);
-    }
-
-    console.log("JSON file has been saved.");
-  });
+  return null;
 };
