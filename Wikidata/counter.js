@@ -57,13 +57,51 @@ console.log("Treatments " + treatmentsList.length);
 
 console.log(
   "Causes Avg " +
-    causesAvgPerDisease / diseasesCount +
-    "\nSymptoms Avg " +
-    symptomsAvgPerDisease / diseasesCount +
-    "\nSpecialties Avg " +
-    specialitiesAvgPerDisease / diseasesCount +
-    "\nDrugs Avg " +
-    drugsAvgPerDisease / diseasesCount +
-    "\nTreatments Avg " +
-    treatmentsAvgPerDisease / diseasesCount
+  causesAvgPerDisease / diseasesCount +
+  "\nSymptoms Avg " +
+  symptomsAvgPerDisease / diseasesCount +
+  "\nSpecialties Avg " +
+  specialitiesAvgPerDisease / diseasesCount +
+  "\nDrugs Avg " +
+  drugsAvgPerDisease / diseasesCount +
+  "\nTreatments Avg " +
+  treatmentsAvgPerDisease / diseasesCount
 );
+
+var specialtyIDs = []
+var specialtyOccrs = []
+
+for (let i = 0; i < data.length; i++) {
+
+  for (let j = 0; j < data[i]["Specialty"].length; j++) {
+    
+    let index = specialtyIDs.indexOf(data[i]["Specialty"][j].id)
+
+    if (index === -1) {
+      specialtyIDs.push(data[i]["Specialty"][j].id);
+      specialtyOccrs.push(1);
+    }
+    else{
+      specialtyOccrs[index] += 1;
+    }
+  }
+}
+
+function countOccurences(arr) {
+  var a = [],
+    b = [],
+    prev;
+
+  arr.sort();
+  for (var i = 0; i < arr.length; i++) {
+    if (arr[i] !== prev) {
+      a.push(arr[i]);
+      b.push(1);
+    } else {
+      b[b.length - 1]++;
+    }
+    prev = arr[i];
+  }
+
+  return [a, b];
+}
