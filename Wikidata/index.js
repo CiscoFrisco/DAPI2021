@@ -36,8 +36,8 @@ const saveData = () => {
 
 const fetchAllData = async () => {
   let counter = 0;
-
-  for (var i = 0; i < diseases.length; i++) {
+  let index = 3481;
+  for (var i = 3480; i < diseases.length; i++) {
     let found = false;
     for (var j = 0; j < data.length; j++) {
       if (data[j].id == diseases[i].id) {
@@ -47,6 +47,7 @@ const fetchAllData = async () => {
     }
 
     if (!found) {
+      console.log("Index: " + index);
       await fetchWikiData(diseases[i].id, 0);
       counter++;
 
@@ -61,6 +62,7 @@ const fetchAllData = async () => {
         saveData();
       }
     }
+    index++;
   }
   console.log("Finished information retrieval");
 };
@@ -110,9 +112,15 @@ const parseJSON = async (response) => {
 const parseOptionQueries = (entity, obj) => {
   for (let i = 0; i < options.queries.length; i++) {
     const query = options.queries[i];
-    if (query == "labels")
-      obj["name"] = entity[options.queries[i]][LANGUAGE].value;
-    else obj[query] = entity[options.queries[i]][LANGUAGE].value;
+
+    if (
+      entity[options.queries[i]] !== undefined &&
+      entity[options.queries[i]][LANGUAGE]
+    ) {
+      if (query == "labels")
+        obj["name"] = entity[options.queries[i]][LANGUAGE].value;
+      else obj[query] = entity[options.queries[i]][LANGUAGE].value;
+    }
   }
 };
 
@@ -132,11 +140,16 @@ const getPropertyData = async (claims, property, obj) => {
 
   obj[property.name] = [];
 
-  if (prop !== null) {
+  if (prop !== null && prop.entities !== undefined) {
     Object.keys(prop.entities).map((key) =>
       obj[property.name].push({
         id: prop.entities[key].id,
-        name: prop.entities[key].labels.en.value,
+        name:
+          prop.entities[key].labels !== undefined
+            ? prop.entities[key].labels.en !== undefined
+              ? prop.entities[key].labels.en.value
+              : ""
+            : "",
         url: decodePropertyUrl(prop.entities[key].sitelinks),
       })
     );
@@ -149,9 +162,17 @@ const requestProperty = async (claims, key) => {
 
     for (let i = 0; i < claims[key].length; i++) {
       const obj = claims[key][i];
-      ids +=
-        obj.mainsnak.datavalue.value.id +
-        (i == claims[key].length - 1 ? "" : SEP);
+
+      if (
+        obj !== undefined &&
+        obj.mainsnak !== undefined &&
+        obj.mainsnak.datavalue !== undefined &&
+        obj.mainsnak.datavalue.value !== undefined
+      ) {
+        ids +=
+          obj.mainsnak.datavalue.value.id +
+          (i == claims[key].length - 1 ? "" : SEP);
+      }
     }
 
     console.log("REQUEST: " + getURL(ids, 1));
