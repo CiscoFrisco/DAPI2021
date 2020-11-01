@@ -27,7 +27,10 @@
     "id": "Q101896",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Gonorrhea"
   },
-  { "id": "Q101971", "wikipediaURL": "https://en.wikipedia.org/wiki/Wart" },
+  {
+    "id": "Q101971",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Wart"
+  },
   {
     "id": "Q101991",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Inflammation"
@@ -36,7 +39,10 @@
     "id": "Q1019940",
     "wikipediaURL": "https://en.wikipedia.org/wiki/B%C3%B6rjeson%E2%80%93Forssman%E2%80%93Lehmann_syndrome"
   },
-  { "id": "Q1022718", "wikipediaURL": "https://en.wikipedia.org/wiki/CADASIL" },
+  {
+    "id": "Q1022718",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/CADASIL"
+  },
   {
     "id": "Q1023604",
     "wikipediaURL": "https://en.wikipedia.org/wiki/CHARGE_syndrome"
@@ -237,7 +243,10 @@
     "id": "Q1063085",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Neuropathic_arthropathy"
   },
-  { "id": "Q1066011", "wikipediaURL": "https://en.wikipedia.org/wiki/Cowpox" },
+  {
+    "id": "Q1066011",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Cowpox"
+  },
   {
     "id": "Q1066061",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Diverticulitis"
@@ -326,7 +335,10 @@
     "id": "Q1076389",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Chordoma"
   },
-  { "id": "Q1076421", "wikipediaURL": "https://en.wikipedia.org/wiki/Chorea" },
+  {
+    "id": "Q1076421",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Chorea"
+  },
   {
     "id": "Q1076481",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Choriocarcinoma"
@@ -359,7 +371,10 @@
     "id": "Q10859678",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Necrotizing_enterocolitis"
   },
-  { "id": "Q10863066", "wikipediaURL": "https://en.wikipedia.org/wiki/Piedra" },
+  {
+    "id": "Q10863066",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Piedra"
+  },
   {
     "id": "Q1087232",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Dyslalia"
@@ -676,12 +691,18 @@
     "id": "Q1140516",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Critical_illness_polyneuropathy"
   },
-  { "id": "Q1140528", "wikipediaURL": "https://en.wikipedia.org/wiki/Drusen" },
+  {
+    "id": "Q1140528",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Drusen"
+  },
   {
     "id": "Q1140794",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Mitral_valve_stenosis"
   },
-  { "id": "Q114085", "wikipediaURL": "https://en.wikipedia.org/wiki/Rhinitis" },
+  {
+    "id": "Q114085",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Rhinitis"
+  },
   {
     "id": "Q1141055",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Diverticulum"
@@ -914,7 +935,10 @@
     "id": "Q1172076",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Hepatocellular_adenoma"
   },
-  { "id": "Q117484", "wikipediaURL": "https://en.wikipedia.org/wiki/Dandruff" },
+  {
+    "id": "Q117484",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Dandruff"
+  },
   {
     "id": "Q11773731",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Degenerative_disc_disease"
@@ -1319,7 +1343,10 @@
     "id": "Q127556",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Osteochondritis_dissecans"
   },
-  { "id": "Q1275814", "wikipediaURL": "https://en.wikipedia.org/wiki/Konzo" },
+  {
+    "id": "Q1275814",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Konzo"
+  },
   {
     "id": "Q127664",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Febrile_seizure"
@@ -1328,7 +1355,10 @@
     "id": "Q1276885",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Adiposogenital_dystrophy"
   },
-  { "id": "Q127724", "wikipediaURL": "https://en.wikipedia.org/wiki/Cataract" },
+  {
+    "id": "Q127724",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Cataract"
+  },
   {
     "id": "Q1277281",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Oroantral_fistula"
@@ -1377,7 +1407,10 @@
     "id": "Q1290616",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Epidemic_typhus"
   },
-  { "id": "Q129104", "wikipediaURL": "https://en.wikipedia.org/wiki/Anthrax" },
+  {
+    "id": "Q129104",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Anthrax"
+  },
   {
     "id": "Q1294912",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Endophthalmitis"
@@ -1482,13 +1515,22 @@
     "id": "Q1328833",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Oppositional_defiant_disorder"
   },
-  { "id": "Q132971", "wikipediaURL": "https://en.wikipedia.org/wiki/Dyslexia" },
+  {
+    "id": "Q132971",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Dyslexia"
+  },
   {
     "id": "Q1330254",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Dupuytren%27s_contracture"
   },
-  { "id": "Q133076", "wikipediaURL": "https://en.wikipedia.org/wiki/Hernia" },
-  { "id": "Q133087", "wikipediaURL": "https://en.wikipedia.org/wiki/Gout" },
+  {
+    "id": "Q133076",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Hernia"
+  },
+  {
+    "id": "Q133087",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Gout"
+  },
   {
     "id": "Q1331116",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Alport_syndrome"
@@ -1525,7 +1567,10 @@
     "id": "Q1336034",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Sitosterolemia"
   },
-  { "id": "Q13365776", "wikipediaURL": "https://en.wikipedia.org/wiki/Uremia" },
+  {
+    "id": "Q13365776",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Uremia"
+  },
   {
     "id": "Q133696",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Color_blindness"
@@ -1542,7 +1587,10 @@
     "id": "Q133780",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Plague_(disease)"
   },
-  { "id": "Q133823", "wikipediaURL": "https://en.wikipedia.org/wiki/Migraine" },
+  {
+    "id": "Q133823",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Migraine"
+  },
   {
     "id": "Q1338684",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Tension_headache"
@@ -1555,7 +1603,10 @@
     "id": "Q1339466",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Empty_sella_syndrome"
   },
-  { "id": "Q1339539", "wikipediaURL": "https://en.wikipedia.org/wiki/Empyema" },
+  {
+    "id": "Q1339539",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Empyema"
+  },
   {
     "id": "Q134003",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Haemophilia"
@@ -1628,7 +1679,10 @@
     "id": "Q1347416",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Epispadias"
   },
-  { "id": "Q1348374", "wikipediaURL": "https://en.wikipedia.org/wiki/Favus" },
+  {
+    "id": "Q1348374",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Favus"
+  },
   {
     "id": "Q134859",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Whooping_cough"
@@ -1649,7 +1703,10 @@
     "id": "Q13512178",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Melancholic_depression"
   },
-  { "id": "Q13522706", "wikipediaURL": "https://en.wikipedia.org/wiki/Colic" },
+  {
+    "id": "Q13522706",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Colic"
+  },
   {
     "id": "Q1356194",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Ectopia_cordis"
@@ -1742,7 +1799,10 @@
     "id": "Q1365091",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Steatosis"
   },
-  { "id": "Q1365309", "wikipediaURL": "https://en.wikipedia.org/wiki/Glioma" },
+  {
+    "id": "Q1365309",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Glioma"
+  },
   {
     "id": "Q1365789",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Glycogen_storage_disease_type_II"
@@ -2031,7 +2091,10 @@
     "id": "Q1427959",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Dental_fluorosis"
   },
-  { "id": "Q142807", "wikipediaURL": "https://en.wikipedia.org/wiki/Floater" },
+  {
+    "id": "Q142807",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Floater"
+  },
   {
     "id": "Q1428132",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Cerebral_venous_sinus_thrombosis"
@@ -2040,7 +2103,10 @@
     "id": "Q1428695",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Focal_dystonia"
   },
-  { "id": "Q1429863", "wikipediaURL": "https://en.wikipedia.org/wiki/Thymoma" },
+  {
+    "id": "Q1429863",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Thymoma"
+  },
   {
     "id": "Q1430844",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Allergic_bronchopulmonary_aspergillosis"
@@ -2121,7 +2187,10 @@
     "id": "Q1440436",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Fragile_X-associated_tremor/ataxia_syndrome"
   },
-  { "id": "Q144119", "wikipediaURL": "https://en.wikipedia.org/wiki/Hysteria" },
+  {
+    "id": "Q144119",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Hysteria"
+  },
   {
     "id": "Q1442621",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Tangier_disease"
@@ -2422,7 +2491,10 @@
     "id": "Q1505689",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Tenosynovitis"
   },
-  { "id": "Q15057288", "wikipediaURL": "https://en.wikipedia.org/wiki/Anotia" },
+  {
+    "id": "Q15057288",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Anotia"
+  },
   {
     "id": "Q1506216",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Hermansky%E2%80%93Pudlak_syndrome"
@@ -2475,7 +2547,10 @@
     "id": "Q1516888",
     "wikipediaURL": "https://en.wikipedia.org/wiki/I-cell_disease"
   },
-  { "id": "Q1518637", "wikipediaURL": "https://en.wikipedia.org/wiki/VIPoma" },
+  {
+    "id": "Q1518637",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/VIPoma"
+  },
   {
     "id": "Q1519657",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Parakeratosis"
@@ -2680,7 +2755,10 @@
     "id": "Q1547640",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Organic_acidemia"
   },
-  { "id": "Q154865", "wikipediaURL": "https://en.wikipedia.org/wiki/Botulism" },
+  {
+    "id": "Q154865",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Botulism"
+  },
   {
     "id": "Q154869",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Hepatitis_C"
@@ -2733,7 +2811,10 @@
     "id": "Q1558317",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Writer%27s_cramp"
   },
-  { "id": "Q155857", "wikipediaURL": "https://en.wikipedia.org/wiki/Rubella" },
+  {
+    "id": "Q155857",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Rubella"
+  },
   {
     "id": "Q1559250",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Peters-plus_syndrome"
@@ -2766,7 +2847,10 @@
     "id": "Q15646785",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Calcaneal_spur"
   },
-  { "id": "Q156590", "wikipediaURL": "https://en.wikipedia.org/wiki/Priapism" },
+  {
+    "id": "Q156590",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Priapism"
+  },
   {
     "id": "Q15666414",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Tarsal_coalition"
@@ -2895,7 +2979,10 @@
     "id": "Q1594599",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Post-transplant_lymphoproliferative_disorder"
   },
-  { "id": "Q159701", "wikipediaURL": "https://en.wikipedia.org/wiki/Glaucoma" },
+  {
+    "id": "Q159701",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Glaucoma"
+  },
   {
     "id": "Q1597484",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Ear_mite"
@@ -2940,12 +3027,18 @@
     "id": "Q1601921",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Annular_pancreas"
   },
-  { "id": "Q160649", "wikipediaURL": "https://en.wikipedia.org/wiki/Typhus" },
+  {
+    "id": "Q160649",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Typhus"
+  },
   {
     "id": "Q1607658",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Hepatoblastoma"
   },
-  { "id": "Q160796", "wikipediaURL": "https://en.wikipedia.org/wiki/Delirium" },
+  {
+    "id": "Q160796",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Delirium"
+  },
   {
     "id": "Q1607983",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Erysipeloid"
@@ -3146,7 +3239,10 @@
     "id": "Q1638637",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Polycoria"
   },
-  { "id": "Q163865", "wikipediaURL": "https://en.wikipedia.org/wiki/Scurvy" },
+  {
+    "id": "Q163865",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Scurvy"
+  },
   {
     "id": "Q163905",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Lafora_disease"
@@ -3255,7 +3351,10 @@
     "id": "Q1648128",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Ramsay_Hunt_syndrome_type_2"
   },
-  { "id": "Q164818", "wikipediaURL": "https://en.wikipedia.org/wiki/Q_fever" },
+  {
+    "id": "Q164818",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Q_fever"
+  },
   {
     "id": "Q1648484",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Duchenne_muscular_dystrophy"
@@ -3268,7 +3367,10 @@
     "id": "Q1649897",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Catecholaminergic_polymorphic_ventricular_tachycardia"
   },
-  { "id": "Q165135", "wikipediaURL": "https://en.wikipedia.org/wiki/Goitre" },
+  {
+    "id": "Q165135",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Goitre"
+  },
   {
     "id": "Q165328",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Osteoporosis"
@@ -3349,7 +3451,10 @@
     "id": "Q1671685",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Invasive_carcinoma_of_no_special_type"
   },
-  { "id": "Q167178", "wikipediaURL": "https://en.wikipedia.org/wiki/Scabies" },
+  {
+    "id": "Q167178",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Scabies"
+  },
   {
     "id": "Q167264",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Marburg_virus_disease"
@@ -3566,7 +3671,10 @@
     "id": "Q16944551",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Biemond_syndrome"
   },
-  { "id": "Q16944985", "wikipediaURL": "https://en.wikipedia.org/wiki/Dup15q" },
+  {
+    "id": "Q16944985",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Dup15q"
+  },
   {
     "id": "Q16947790",
     "wikipediaURL": "https://en.wikipedia.org/wiki/McGillivray_syndrome"
@@ -3679,7 +3787,10 @@
     "id": "Q17009830",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Progestin-induced_virilization"
   },
-  { "id": "Q170102", "wikipediaURL": "https://en.wikipedia.org/wiki/Scrapie" },
+  {
+    "id": "Q170102",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Scrapie"
+  },
   {
     "id": "Q17010855",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Achondrogenesis_type_1B"
@@ -4312,7 +4423,10 @@
     "id": "Q1756040",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Pierre_Robin_sequence"
   },
-  { "id": "Q1756640", "wikipediaURL": "https://en.wikipedia.org/wiki/Ranula" },
+  {
+    "id": "Q1756640",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Ranula"
+  },
   {
     "id": "Q1756659",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Medication_overuse_headache"
@@ -4353,7 +4467,10 @@
     "id": "Q1758393",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Inborn_errors_of_metabolism"
   },
-  { "id": "Q175854", "wikipediaURL": "https://en.wikipedia.org/wiki/Phobia" },
+  {
+    "id": "Q175854",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Phobia"
+  },
   {
     "id": "Q1758624",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Pseudarthrosis"
@@ -4418,7 +4535,10 @@
     "id": "Q1765564",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Septic_shock"
   },
-  { "id": "Q176741", "wikipediaURL": "https://en.wikipedia.org/wiki/Mumps" },
+  {
+    "id": "Q176741",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Mumps"
+  },
   {
     "id": "Q1770836",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Sotos_syndrome"
@@ -4591,7 +4711,10 @@
     "id": "Q179399",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Infertility"
   },
-  { "id": "Q179630", "wikipediaURL": "https://en.wikipedia.org/wiki/Syndrome" },
+  {
+    "id": "Q179630",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Syndrome"
+  },
   {
     "id": "Q1798016",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Noonan_syndrome_with_multiple_lentigines"
@@ -4608,7 +4731,10 @@
     "id": "Q179951",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Strabismus"
   },
-  { "id": "Q180152", "wikipediaURL": "https://en.wikipedia.org/wiki/Vitiligo" },
+  {
+    "id": "Q180152",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Vitiligo"
+  },
   {
     "id": "Q18020133",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Facial_femoral_syndrome"
@@ -4621,7 +4747,10 @@
     "id": "Q18054140",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Collapse_(medical)"
   },
-  { "id": "Q180614", "wikipediaURL": "https://en.wikipedia.org/wiki/Melanoma" },
+  {
+    "id": "Q180614",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Melanoma"
+  },
   {
     "id": "Q180664",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Acute_lymphoblastic_leukemia"
@@ -4634,12 +4763,18 @@
     "id": "Q1807280",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Osteoblastoma"
   },
-  { "id": "Q1807401", "wikipediaURL": "https://en.wikipedia.org/wiki/Sodoku" },
+  {
+    "id": "Q1807401",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Sodoku"
+  },
   {
     "id": "Q1807522",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Vaginal_cancer"
   },
-  { "id": "Q181032", "wikipediaURL": "https://en.wikipedia.org/wiki/Neurosis" },
+  {
+    "id": "Q181032",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Neurosis"
+  },
   {
     "id": "Q1811132",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Leber_congenital_amaurosis"
@@ -4656,7 +4791,10 @@
     "id": "Q1813737",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Macular_edema"
   },
-  { "id": "Q181391", "wikipediaURL": "https://en.wikipedia.org/wiki/Balding" },
+  {
+    "id": "Q181391",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Balding"
+  },
   {
     "id": "Q1815019",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Leigh_syndrome"
@@ -4701,7 +4839,10 @@
     "id": "Q18211751",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Vulvar_disease"
   },
-  { "id": "Q182155", "wikipediaURL": "https://en.wikipedia.org/wiki/Shingles" },
+  {
+    "id": "Q182155",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Shingles"
+  },
   {
     "id": "Q1821559",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Leukodystrophy"
@@ -4742,12 +4883,18 @@
     "id": "Q183098",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Budd%E2%80%93Chiari_syndrome"
   },
-  { "id": "Q183134", "wikipediaURL": "https://en.wikipedia.org/wiki/Sepsis" },
+  {
+    "id": "Q183134",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Sepsis"
+  },
   {
     "id": "Q183344",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Sinusitis"
   },
-  { "id": "Q183392", "wikipediaURL": "https://en.wikipedia.org/wiki/Rickets" },
+  {
+    "id": "Q183392",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Rickets"
+  },
   {
     "id": "Q18345704",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Pulmonary_venoocclusive_disease"
@@ -4928,7 +5075,10 @@
     "id": "Q18556440",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Intraneural_perineurioma"
   },
-  { "id": "Q18556792", "wikipediaURL": "https://en.wikipedia.org/wiki/Poroma" },
+  {
+    "id": "Q18556792",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Poroma"
+  },
   {
     "id": "Q18556800",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Intraductal_papillary_neoplasm_of_the_bile_duct"
@@ -5021,7 +5171,10 @@
     "id": "Q187255",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Rheumatoid_arthritis"
   },
-  { "id": "Q187440", "wikipediaURL": "https://en.wikipedia.org/wiki/Hives" },
+  {
+    "id": "Q187440",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Hives"
+  },
   {
     "id": "Q187542",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Li%E2%80%93Fraumeni_syndrome"
@@ -5074,7 +5227,10 @@
     "id": "Q1881388",
     "wikipediaURL": "https://en.wikipedia.org/wiki/MERRF_syndrome"
   },
-  { "id": "Q188151", "wikipediaURL": "https://en.wikipedia.org/wiki/Ischemia" },
+  {
+    "id": "Q188151",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Ischemia"
+  },
   {
     "id": "Q188297",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Lupus_erythematosus"
@@ -5131,8 +5287,14 @@
     "id": "Q189331",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Arrhythmia"
   },
-  { "id": "Q189389", "wikipediaURL": "https://en.wikipedia.org/wiki/Aneurysm" },
-  { "id": "Q189470", "wikipediaURL": "https://en.wikipedia.org/wiki/Fistula" },
+  {
+    "id": "Q189389",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Aneurysm"
+  },
+  {
+    "id": "Q189470",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Fistula"
+  },
   {
     "id": "Q189561",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Narcolepsy"
@@ -5281,7 +5443,10 @@
     "id": "Q1923955",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Pyomyositis"
   },
-  { "id": "Q192579", "wikipediaURL": "https://en.wikipedia.org/wiki/Jet_lag" },
+  {
+    "id": "Q192579",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Jet_lag"
+  },
   {
     "id": "Q1926345",
     "wikipediaURL": "https://en.wikipedia.org/wiki/22q13_deletion_syndrome"
@@ -5298,8 +5463,14 @@
     "id": "Q193003",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Hydrocephalus"
   },
-  { "id": "Q193211", "wikipediaURL": "https://en.wikipedia.org/wiki/Cyst" },
-  { "id": "Q193216", "wikipediaURL": "https://en.wikipedia.org/wiki/Trachoma" },
+  {
+    "id": "Q193211",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Cyst"
+  },
+  {
+    "id": "Q193216",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Trachoma"
+  },
   {
     "id": "Q1934052",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Microsporidiosis"
@@ -5340,9 +5511,18 @@
     "id": "Q194041",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Phenylketonuria"
   },
-  { "id": "Q194101", "wikipediaURL": "https://en.wikipedia.org/wiki/Dwarfism" },
-  { "id": "Q1941101", "wikipediaURL": "https://en.wikipedia.org/wiki/Myoma" },
-  { "id": "Q194520", "wikipediaURL": "https://en.wikipedia.org/wiki/Atrophy" },
+  {
+    "id": "Q194101",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Dwarfism"
+  },
+  {
+    "id": "Q1941101",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Myoma"
+  },
+  {
+    "id": "Q194520",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Atrophy"
+  },
   {
     "id": "Q1947272",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Baastrup%27s_sign"
@@ -5483,7 +5663,10 @@
     "id": "Q1981337",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Postoperative_residual_curarization"
   },
-  { "id": "Q1981345", "wikipediaURL": "https://en.wikipedia.org/wiki/Neuroma" },
+  {
+    "id": "Q1981345",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Neuroma"
+  },
   {
     "id": "Q1983841",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Viral_hepatitis"
@@ -5540,7 +5723,10 @@
     "id": "Q2003151",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Livedo_reticularis"
   },
-  { "id": "Q200741", "wikipediaURL": "https://en.wikipedia.org/wiki/Teratoma" },
+  {
+    "id": "Q200741",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Teratoma"
+  },
   {
     "id": "Q200745",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Pseudohypoaldosteronism"
@@ -5605,7 +5791,10 @@
     "id": "Q201989",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Lyme_disease"
   },
-  { "id": "Q202173", "wikipediaURL": "https://en.wikipedia.org/wiki/Stye" },
+  {
+    "id": "Q202173",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Stye"
+  },
   {
     "id": "Q202387",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Post-traumatic_stress_disorder"
@@ -5894,7 +6083,10 @@
     "id": "Q2075261",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Myocardial_stunning"
   },
-  { "id": "Q2076733", "wikipediaURL": "https://en.wikipedia.org/wiki/El_Tor" },
+  {
+    "id": "Q2076733",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/El_Tor"
+  },
   {
     "id": "Q207791",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Sexual_fetishism"
@@ -5911,7 +6103,10 @@
     "id": "Q2084035",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Nail_disease"
   },
-  { "id": "Q208414", "wikipediaURL": "https://en.wikipedia.org/wiki/Lymphoma" },
+  {
+    "id": "Q208414",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Lymphoma"
+  },
   {
     "id": "Q2085267",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Pharyngitis"
@@ -6068,7 +6263,10 @@
     "id": "Q212961",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Pancreatic_cancer"
   },
-  { "id": "Q213098", "wikipediaURL": "https://en.wikipedia.org/wiki/Progeria" },
+  {
+    "id": "Q213098",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Progeria"
+  },
   {
     "id": "Q213151",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Kwashiorkor"
@@ -6149,7 +6347,10 @@
     "id": "Q2160802",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Congenital_nephrotic_syndrome"
   },
-  { "id": "Q2161046", "wikipediaURL": "https://en.wikipedia.org/wiki/Ainhum" },
+  {
+    "id": "Q2161046",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Ainhum"
+  },
   {
     "id": "Q2161625",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Teratospermia"
@@ -6246,7 +6447,10 @@
     "id": "Q220193",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Premenstrual_syndrome"
   },
-  { "id": "Q220322", "wikipediaURL": "https://en.wikipedia.org/wiki/Agnosia" },
+  {
+    "id": "Q220322",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Agnosia"
+  },
   {
     "id": "Q220551",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Diabetes_insipidus"
@@ -6271,7 +6475,10 @@
     "id": "Q2213687",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Sacroiliitis"
   },
-  { "id": "Q221441", "wikipediaURL": "https://en.wikipedia.org/wiki/Pellagra" },
+  {
+    "id": "Q221441",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Pellagra"
+  },
   {
     "id": "Q2214419",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Omenn_syndrome"
@@ -6316,7 +6523,10 @@
     "id": "Q223663",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Bornholm_disease"
   },
-  { "id": "Q223911", "wikipediaURL": "https://en.wikipedia.org/wiki/Sarcoma" },
+  {
+    "id": "Q223911",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Sarcoma"
+  },
   {
     "id": "Q2241556",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Enlarged_vestibular_aqueduct"
@@ -6653,7 +6863,10 @@
     "id": "Q2384391",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Occupational_skin_diseases"
   },
-  { "id": "Q2385892", "wikipediaURL": "https://en.wikipedia.org/wiki/Astasis" },
+  {
+    "id": "Q2385892",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Astasis"
+  },
   {
     "id": "Q2388598",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Ollier_disease"
@@ -6742,7 +6955,10 @@
     "id": "Q2450598",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Infective_endocarditis"
   },
-  { "id": "Q2453464", "wikipediaURL": "https://en.wikipedia.org/wiki/Colitis" },
+  {
+    "id": "Q2453464",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Colitis"
+  },
   {
     "id": "Q245455",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Chromosome_5q_deletion_syndrome"
@@ -6791,7 +7007,10 @@
     "id": "Q246070",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Cystadenoma"
   },
-  { "id": "Q246084", "wikipediaURL": "https://en.wikipedia.org/wiki/Cystitis" },
+  {
+    "id": "Q246084",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Cystitis"
+  },
   {
     "id": "Q2463884",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Cervicitis"
@@ -7336,7 +7555,10 @@
     "id": "Q268292",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Mitral_insufficiency"
   },
-  { "id": "Q268594", "wikipediaURL": "https://en.wikipedia.org/wiki/Stupor" },
+  {
+    "id": "Q268594",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Stupor"
+  },
   {
     "id": "Q2686385",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Factitious_disorder"
@@ -7429,7 +7651,10 @@
     "id": "Q2726043",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Chromoblastomycosis"
   },
-  { "id": "Q272741", "wikipediaURL": "https://en.wikipedia.org/wiki/Adenoma" },
+  {
+    "id": "Q272741",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Adenoma"
+  },
   {
     "id": "Q2730080",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Idiopathic_hypersomnia"
@@ -7530,7 +7755,10 @@
     "id": "Q279330",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Bronchospasm"
   },
-  { "id": "Q280027", "wikipediaURL": "https://en.wikipedia.org/wiki/Uveitis" },
+  {
+    "id": "Q280027",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Uveitis"
+  },
   {
     "id": "Q280156",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Male_infertility"
@@ -8123,7 +8351,10 @@
     "id": "Q3045238",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Congenital_insensitivity_to_pain"
   },
-  { "id": "Q304601", "wikipediaURL": "https://en.wikipedia.org/wiki/Myiasis" },
+  {
+    "id": "Q304601",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Myiasis"
+  },
   {
     "id": "Q3046374",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Zygomycosis"
@@ -8164,7 +8395,10 @@
     "id": "Q3055380",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Enteropathy"
   },
-  { "id": "Q305641", "wikipediaURL": "https://en.wikipedia.org/wiki/Abasia" },
+  {
+    "id": "Q305641",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Abasia"
+  },
   {
     "id": "Q30643222",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Methylenetetrahydrofolate_reductase_deficiency"
@@ -8209,7 +8443,10 @@
     "id": "Q3087172",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Developmental_disorder"
   },
-  { "id": "Q3089469", "wikipediaURL": "https://en.wikipedia.org/wiki/Sequela" },
+  {
+    "id": "Q3089469",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Sequela"
+  },
   {
     "id": "Q308978",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Pressure_ulcer"
@@ -8414,7 +8651,10 @@
     "id": "Q32136782",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Transient_myeloproliferative_disease"
   },
-  { "id": "Q32147145", "wikipediaURL": "https://en.wikipedia.org/wiki/MODY_2" },
+  {
+    "id": "Q32147145",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/MODY_2"
+  },
   {
     "id": "Q3221083",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Motor_neuron_disease"
@@ -8487,7 +8727,10 @@
     "id": "Q3269843",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Hyperkalemic_periodic_paralysis"
   },
-  { "id": "Q327005", "wikipediaURL": "https://en.wikipedia.org/wiki/Glanders" },
+  {
+    "id": "Q327005",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Glanders"
+  },
   {
     "id": "Q3270160",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Actinobacillosis"
@@ -8640,7 +8883,10 @@
     "id": "Q332293",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Carpal_tunnel_syndrome"
   },
-  { "id": "Q3324389", "wikipediaURL": "https://en.wikipedia.org/wiki/Morphea" },
+  {
+    "id": "Q3324389",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Morphea"
+  },
   {
     "id": "Q332768",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Survivor_guilt"
@@ -8733,7 +8979,10 @@
     "id": "Q3358864",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Southeast_Asian_ovalocytosis"
   },
-  { "id": "Q335941", "wikipediaURL": "https://en.wikipedia.org/wiki/Abulia" },
+  {
+    "id": "Q335941",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Abulia"
+  },
   {
     "id": "Q3360152",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Pachyonychia_congenita"
@@ -8802,7 +9051,10 @@
     "id": "Q340594",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Achondroplasia"
   },
-  { "id": "Q3408668", "wikipediaURL": "https://en.wikipedia.org/wiki/Prurigo" },
+  {
+    "id": "Q3408668",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Prurigo"
+  },
   {
     "id": "Q3410750",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Pulicosis"
@@ -9203,7 +9455,10 @@
     "id": "Q357067",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Adie_syndrome"
   },
-  { "id": "Q357522", "wikipediaURL": "https://en.wikipedia.org/wiki/Adipsia" },
+  {
+    "id": "Q357522",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Adipsia"
+  },
   {
     "id": "Q3589130",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Junctional_epidermolysis_bullosa_gravis"
@@ -9564,7 +9819,10 @@
     "id": "Q379418",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Keratomalacia"
   },
-  { "id": "Q3796380", "wikipediaURL": "https://en.wikipedia.org/wiki/Ileitis" },
+  {
+    "id": "Q3796380",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Ileitis"
+  },
   {
     "id": "Q3798547",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Haverhill_fever"
@@ -9637,7 +9895,10 @@
     "id": "Q3825881",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Bladder_stone"
   },
-  { "id": "Q382641", "wikipediaURL": "https://en.wikipedia.org/wiki/Phimosis" },
+  {
+    "id": "Q382641",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Phimosis"
+  },
   {
     "id": "Q3831227",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Leukoedema"
@@ -9670,7 +9931,10 @@
     "id": "Q3832900",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Splenic_marginal_zone_lymphoma"
   },
-  { "id": "Q3840916", "wikipediaURL": "https://en.wikipedia.org/wiki/Luteoma" },
+  {
+    "id": "Q3840916",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Luteoma"
+  },
   {
     "id": "Q3843800",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Banti%27s_syndrome"
@@ -9739,7 +10003,10 @@
     "id": "Q3882418",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Renal_oncocytoma"
   },
-  { "id": "Q388388", "wikipediaURL": "https://en.wikipedia.org/wiki/Volvulus" },
+  {
+    "id": "Q388388",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Volvulus"
+  },
   {
     "id": "Q3886247",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Urticaria_pigmentosa"
@@ -9844,12 +10111,18 @@
     "id": "Q3956352",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Perforated_ulcer"
   },
-  { "id": "Q395931", "wikipediaURL": "https://en.wikipedia.org/wiki/Agraphia" },
+  {
+    "id": "Q395931",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Agraphia"
+  },
   {
     "id": "Q396013",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Agranulocytosis"
   },
-  { "id": "Q3961657", "wikipediaURL": "https://en.wikipedia.org/wiki/Anismus" },
+  {
+    "id": "Q3961657",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Anismus"
+  },
   {
     "id": "Q3961676",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Keppen%E2%80%93Lubinsky_syndrome"
@@ -10466,7 +10739,10 @@
     "id": "Q4420129",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Mauriac_syndrome"
   },
-  { "id": "Q4420133", "wikipediaURL": "https://en.wikipedia.org/wiki/ROHHAD" },
+  {
+    "id": "Q4420133",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/ROHHAD"
+  },
   {
     "id": "Q4420146",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Short_rib%E2%80%93polydactyly_syndrome"
@@ -10559,7 +10835,10 @@
     "id": "Q4553565",
     "wikipediaURL": "https://en.wikipedia.org/wiki/17q21.31_microdeletion_syndrome"
   },
-  { "id": "Q4557543", "wikipediaURL": "https://en.wikipedia.org/wiki/18p-" },
+  {
+    "id": "Q4557543",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/18p-"
+  },
   {
     "id": "Q457737",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Edwards_syndrome"
@@ -10632,7 +10911,10 @@
     "id": "Q4638720",
     "wikipediaURL": "https://en.wikipedia.org/wiki/49,XXXXY"
   },
-  { "id": "Q464067", "wikipediaURL": "https://en.wikipedia.org/wiki/Mycosis" },
+  {
+    "id": "Q464067",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Mycosis"
+  },
   {
     "id": "Q4641554",
     "wikipediaURL": "https://en.wikipedia.org/wiki/6-Pyruvoyltetrahydropterin_synthase_deficiency"
@@ -10681,7 +10963,10 @@
     "id": "Q4665124",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Abdominal_musculature_absent_with_microphthalmia_and_joint_laxity"
   },
-  { "id": "Q4667072", "wikipediaURL": "https://en.wikipedia.org/wiki/Fibroma" },
+  {
+    "id": "Q4667072",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Fibroma"
+  },
   {
     "id": "Q4667534",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Leiomyoma"
@@ -10822,7 +11107,10 @@
     "id": "Q4677938",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Acute_monocytic_leukemia"
   },
-  { "id": "Q4677939", "wikipediaURL": "https://en.wikipedia.org/wiki/BPDCN" },
+  {
+    "id": "Q4677939",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/BPDCN"
+  },
   {
     "id": "Q4677943",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Acute_myelomonocytic_leukemia"
@@ -10911,7 +11199,10 @@
     "id": "Q470427",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Refractive_error"
   },
-  { "id": "Q470701", "wikipediaURL": "https://en.wikipedia.org/wiki/Ecthyma" },
+  {
+    "id": "Q470701",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Ecthyma"
+  },
   {
     "id": "Q4710773",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Loeffler_endocarditis"
@@ -10996,7 +11287,10 @@
     "id": "Q474070",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Oropouche_fever"
   },
-  { "id": "Q4740761", "wikipediaURL": "https://en.wikipedia.org/wiki/Amazia" },
+  {
+    "id": "Q4740761",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Amazia"
+  },
   {
     "id": "Q4742183",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Amelanotic_melanoma"
@@ -11077,7 +11371,10 @@
     "id": "Q4769722",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Skin_manifestations_of_sarcoidosis"
   },
-  { "id": "Q4770152", "wikipediaURL": "https://en.wikipedia.org/wiki/Anopsia" },
+  {
+    "id": "Q4770152",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Anopsia"
+  },
   {
     "id": "Q4771330",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Anterior_cerebral_artery_syndrome"
@@ -11098,7 +11395,10 @@
     "id": "Q4783806",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Arakawa%27s_syndrome_II"
   },
-  { "id": "Q478389", "wikipediaURL": "https://en.wikipedia.org/wiki/Kyphosis" },
+  {
+    "id": "Q478389",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Kyphosis"
+  },
   {
     "id": "Q478891",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Simpson%E2%80%93Golabi%E2%80%93Behmel_syndrome"
@@ -11179,7 +11479,10 @@
     "id": "Q4817548",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Atrichia_with_papular_lesions"
   },
-  { "id": "Q481787", "wikipediaURL": "https://en.wikipedia.org/wiki/Amusia" },
+  {
+    "id": "Q481787",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Amusia"
+  },
   {
     "id": "Q4818237",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Attenuated_familial_adenomatous_polyposis"
@@ -11332,7 +11635,10 @@
     "id": "Q4862390",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Brain_ischemia"
   },
-  { "id": "Q486485", "wikipediaURL": "https://en.wikipedia.org/wiki/Anasarca" },
+  {
+    "id": "Q486485",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Anasarca"
+  },
   {
     "id": "Q4865135",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Bart_syndrome"
@@ -11597,7 +11903,10 @@
     "id": "Q498826",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Sucrose_intolerance"
   },
-  { "id": "Q498916", "wikipediaURL": "https://en.wikipedia.org/wiki/Apraxia" },
+  {
+    "id": "Q498916",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Apraxia"
+  },
   {
     "id": "Q4990874",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Congenital_fibrosis_of_the_extraocular_muscles"
@@ -11926,7 +12235,10 @@
     "id": "Q5114004",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Chronic_traumatic_encephalopathy"
   },
-  { "id": "Q511818", "wikipediaURL": "https://en.wikipedia.org/wiki/Tetany" },
+  {
+    "id": "Q511818",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Tetany"
+  },
   {
     "id": "Q5118576",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Chyloderma"
@@ -12435,7 +12747,10 @@
     "id": "Q5276448",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Dihydropyrimidine_dehydrogenase_deficiency"
   },
-  { "id": "Q5280135", "wikipediaURL": "https://en.wikipedia.org/wiki/Dipygus" },
+  {
+    "id": "Q5280135",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Dipygus"
+  },
   {
     "id": "Q5282160",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Disequilibrium_(medicine)"
@@ -12752,7 +13067,10 @@
     "id": "Q540571",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Fibromyalgia"
   },
-  { "id": "Q540850", "wikipediaURL": "https://en.wikipedia.org/wiki/Orchitis" },
+  {
+    "id": "Q540850",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Orchitis"
+  },
   {
     "id": "Q5409708",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Phacolytic_glaucoma"
@@ -12949,7 +13267,10 @@
     "id": "Q548213",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Neural_tube_defect"
   },
-  { "id": "Q548719", "wikipediaURL": "https://en.wikipedia.org/wiki/Aniridia" },
+  {
+    "id": "Q548719",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Aniridia"
+  },
   {
     "id": "Q54875151",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Knee_dislocation"
@@ -13002,7 +13323,10 @@
     "id": "Q5509198",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Funisitis"
   },
-  { "id": "Q551085", "wikipediaURL": "https://en.wikipedia.org/wiki/Myelitis" },
+  {
+    "id": "Q551085",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Myelitis"
+  },
   {
     "id": "Q5512866",
     "wikipediaURL": "https://en.wikipedia.org/wiki/GAPO_syndrome"
@@ -13279,7 +13603,10 @@
     "id": "Q558404",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Alcoholic_liver_disease"
   },
-  { "id": "Q558623", "wikipediaURL": "https://en.wikipedia.org/wiki/Aphakia" },
+  {
+    "id": "Q558623",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Aphakia"
+  },
   {
     "id": "Q559082",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Chondrocalcinosis"
@@ -13392,7 +13719,10 @@
     "id": "Q567576",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Anomic_aphasia"
   },
-  { "id": "Q567694", "wikipediaURL": "https://en.wikipedia.org/wiki/Anorchia" },
+  {
+    "id": "Q567694",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Anorchia"
+  },
   {
     "id": "Q567820",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Alexander_disease"
@@ -13405,7 +13735,10 @@
     "id": "Q56792371",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Repeated_implantation_failure"
   },
-  { "id": "Q568321", "wikipediaURL": "https://en.wikipedia.org/wiki/Anoxemia" },
+  {
+    "id": "Q568321",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Anoxemia"
+  },
   {
     "id": "Q5685180",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Hawkinsinuria"
@@ -13590,7 +13923,10 @@
     "id": "Q582207",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Antiphospholipid_syndrome"
   },
-  { "id": "Q582904", "wikipediaURL": "https://en.wikipedia.org/wiki/Marasmus" },
+  {
+    "id": "Q582904",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Marasmus"
+  },
   {
     "id": "Q5832339",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Neonatal_encephalopathy"
@@ -13647,7 +13983,10 @@
     "id": "Q5883885",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Holocarboxylase_synthetase_deficiency"
   },
-  { "id": "Q589612", "wikipediaURL": "https://en.wikipedia.org/wiki/Myxoma" },
+  {
+    "id": "Q589612",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Myxoma"
+  },
   {
     "id": "Q5898279",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Hyperphenylalaninemia"
@@ -14084,7 +14423,10 @@
     "id": "Q612108",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Acute_promyelocytic_leukemia"
   },
-  { "id": "Q612681", "wikipediaURL": "https://en.wikipedia.org/wiki/Anuria" },
+  {
+    "id": "Q612681",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Anuria"
+  },
   {
     "id": "Q6126829",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Jalili_syndrome"
@@ -14153,7 +14495,10 @@
     "id": "Q616087",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Aortic_insufficiency"
   },
-  { "id": "Q616088", "wikipediaURL": "https://en.wikipedia.org/wiki/Aortitis" },
+  {
+    "id": "Q616088",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Aortitis"
+  },
   {
     "id": "Q616667",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Temporal_lobe_epilepsy"
@@ -14434,7 +14779,10 @@
     "id": "Q64485022",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Paternal_depression"
   },
-  { "id": "Q645363", "wikipediaURL": "https://en.wikipedia.org/wiki/Bursitis" },
+  {
+    "id": "Q645363",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Bursitis"
+  },
   {
     "id": "Q6458655",
     "wikipediaURL": "https://en.wikipedia.org/wiki/LIG4_syndrome"
@@ -14479,7 +14827,10 @@
     "id": "Q6489151",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Large_granular_lymphocytic_leukemia"
   },
-  { "id": "Q648982", "wikipediaURL": "https://en.wikipedia.org/wiki/Argyria" },
+  {
+    "id": "Q648982",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Argyria"
+  },
   {
     "id": "Q6491971",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Laryngoonychocutaneous_syndrome"
@@ -14796,12 +15147,18 @@
     "id": "Q6717006",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Renal_cysts_and_diabetes_syndrome"
   },
-  { "id": "Q6717008", "wikipediaURL": "https://en.wikipedia.org/wiki/MODY_6" },
+  {
+    "id": "Q6717008",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/MODY_6"
+  },
   {
     "id": "Q6717114",
     "wikipediaURL": "https://en.wikipedia.org/wiki/MORM_syndrome"
   },
-  { "id": "Q671776", "wikipediaURL": "https://en.wikipedia.org/wiki/Muteness" },
+  {
+    "id": "Q671776",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Muteness"
+  },
   {
     "id": "Q6725504",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Macrophage_activation_syndrome"
@@ -15114,7 +15471,10 @@
     "id": "Q6884011",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Mixed_receptive-expressive_language_disorder"
   },
-  { "id": "Q68854", "wikipediaURL": "https://en.wikipedia.org/wiki/Snakebite" },
+  {
+    "id": "Q68854",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Snakebite"
+  },
   {
     "id": "Q688890",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Pulmonary_sequestration"
@@ -15135,12 +15495,18 @@
     "id": "Q6899222",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Money_disorder"
   },
-  { "id": "Q689985", "wikipediaURL": "https://en.wikipedia.org/wiki/Lipoma" },
+  {
+    "id": "Q689985",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Lipoma"
+  },
   {
     "id": "Q690032",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Relapsing_fever"
   },
-  { "id": "Q6901244", "wikipediaURL": "https://en.wikipedia.org/wiki/MonoMAC" },
+  {
+    "id": "Q6901244",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/MonoMAC"
+  },
   {
     "id": "Q6901575",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Monofixation_syndrome"
@@ -15153,12 +15519,18 @@
     "id": "Q6901967",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Monosomy_14"
   },
-  { "id": "Q690210", "wikipediaURL": "https://en.wikipedia.org/wiki/Dysosmia" },
+  {
+    "id": "Q690210",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Dysosmia"
+  },
   {
     "id": "Q691112",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Muselmann"
   },
-  { "id": "Q692536", "wikipediaURL": "https://en.wikipedia.org/wiki/Myopathy" },
+  {
+    "id": "Q692536",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Myopathy"
+  },
   {
     "id": "Q6931137",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Mucinous_carcinoma"
@@ -15215,7 +15587,10 @@
     "id": "Q693872",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Meige%27s_syndrome"
   },
-  { "id": "Q6939061", "wikipediaURL": "https://en.wikipedia.org/wiki/Murrain" },
+  {
+    "id": "Q6939061",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Murrain"
+  },
   {
     "id": "Q694552",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Lymphogranuloma_venereum"
@@ -15868,7 +16243,10 @@
     "id": "Q7200301",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Placental_site_trophoblastic_tumor"
   },
-  { "id": "Q720032", "wikipediaURL": "https://en.wikipedia.org/wiki/Roseola" },
+  {
+    "id": "Q720032",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Roseola"
+  },
   {
     "id": "Q7201765",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Plasma_cell_leukemia"
@@ -16301,7 +16679,10 @@
     "id": "Q7356544",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Tapeworm_infection"
   },
-  { "id": "Q736599", "wikipediaURL": "https://en.wikipedia.org/wiki/Aspermia" },
+  {
+    "id": "Q736599",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Aspermia"
+  },
   {
     "id": "Q736633",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Mismatch_repair_cancer_syndrome"
@@ -16314,12 +16695,18 @@
     "id": "Q736776",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Tennis_elbow"
   },
-  { "id": "Q737712", "wikipediaURL": "https://en.wikipedia.org/wiki/Asplenia" },
+  {
+    "id": "Q737712",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Asplenia"
+  },
   {
     "id": "Q738101",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Condyloma"
   },
-  { "id": "Q738153", "wikipediaURL": "https://en.wikipedia.org/wiki/Ileus" },
+  {
+    "id": "Q738153",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Ileus"
+  },
   {
     "id": "Q738170",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Small-cell_carcinoma"
@@ -16448,7 +16835,10 @@
     "id": "Q74426740",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Carcinocythemia"
   },
-  { "id": "Q744305", "wikipediaURL": "https://en.wikipedia.org/wiki/Lordosis" },
+  {
+    "id": "Q744305",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Lordosis"
+  },
   {
     "id": "Q744387",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Rocky_Mountain_spotted_fever"
@@ -16689,7 +17079,10 @@
     "id": "Q7576389",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Spermatogenesis_arrest"
   },
-  { "id": "Q757676", "wikipediaURL": "https://en.wikipedia.org/wiki/Atony" },
+  {
+    "id": "Q757676",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Atony"
+  },
   {
     "id": "Q7577457",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Spinal_disease"
@@ -16738,7 +17131,10 @@
     "id": "Q7578545",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Splenic_lymphoma_with_villous_lymphocytes"
   },
-  { "id": "Q7578590", "wikipediaURL": "https://en.wikipedia.org/wiki/Splints" },
+  {
+    "id": "Q7578590",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Splints"
+  },
   {
     "id": "Q7578690",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Split_hand_syndrome"
@@ -16803,7 +17199,10 @@
     "id": "Q7623555",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Striate_palmoplantar_keratoderma"
   },
-  { "id": "Q762583", "wikipediaURL": "https://en.wikipedia.org/wiki/Catarrh" },
+  {
+    "id": "Q762583",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Catarrh"
+  },
   {
     "id": "Q7630706",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Subacute_cutaneous_lupus_erythematosus"
@@ -16904,7 +17303,10 @@
     "id": "Q7685929",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Targetoid_hemosiderotic_hemangioma"
   },
-  { "id": "Q768888", "wikipediaURL": "https://en.wikipedia.org/wiki/Miliaria" },
+  {
+    "id": "Q768888",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Miliaria"
+  },
   {
     "id": "Q7688951",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Taussig%E2%80%93Bing_syndrome"
@@ -16913,7 +17315,10 @@
     "id": "Q769595",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Chalazion"
   },
-  { "id": "Q76973", "wikipediaURL": "https://en.wikipedia.org/wiki/Yaws" },
+  {
+    "id": "Q76973",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Yaws"
+  },
   {
     "id": "Q769741",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Adenoviral_keratoconjunctivitis"
@@ -17362,7 +17767,10 @@
     "id": "Q794026",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Azoospermia"
   },
-  { "id": "Q794072", "wikipediaURL": "https://en.wikipedia.org/wiki/Azotemia" },
+  {
+    "id": "Q794072",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Azotemia"
+  },
   {
     "id": "Q794086",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Hypokalemia"
@@ -17403,12 +17811,18 @@
     "id": "Q797708",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Babinski%E2%80%93Nageotte_syndrome"
   },
-  { "id": "Q79793", "wikipediaURL": "https://en.wikipedia.org/wiki/Measles" },
+  {
+    "id": "Q79793",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Measles"
+  },
   {
     "id": "Q7982503",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Wende%E2%80%93Bauckus_syndrome"
   },
-  { "id": "Q79928", "wikipediaURL": "https://en.wikipedia.org/wiki/Acne" },
+  {
+    "id": "Q79928",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Acne"
+  },
   {
     "id": "Q7995600",
     "wikipediaURL": "https://en.wikipedia.org/wiki/White_dot_syndromes"
@@ -17585,7 +17999,10 @@
     "id": "Q817310",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Benign_paroxysmal_positional_vertigo"
   },
-  { "id": "Q81867", "wikipediaURL": "https://en.wikipedia.org/wiki/Albinism" },
+  {
+    "id": "Q81867",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Albinism"
+  },
   {
     "id": "Q819207",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Pseudohypoparathyroidism"
@@ -17682,12 +18099,18 @@
     "id": "Q830265",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Vitelliform_macular_dystrophy"
   },
-  { "id": "Q83030", "wikipediaURL": "https://en.wikipedia.org/wiki/Dementia" },
+  {
+    "id": "Q83030",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Dementia"
+  },
   {
     "id": "Q831363",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Bethlem_myopathy"
   },
-  { "id": "Q831530", "wikipediaURL": "https://en.wikipedia.org/wiki/Rosacea" },
+  {
+    "id": "Q831530",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Rosacea"
+  },
   {
     "id": "Q83319",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Typhoid_fever"
@@ -17700,12 +18123,18 @@
     "id": "Q835051",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Hyperplasia"
   },
-  { "id": "Q835061", "wikipediaURL": "https://en.wikipedia.org/wiki/Mastitis" },
+  {
+    "id": "Q835061",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Mastitis"
+  },
   {
     "id": "Q835718",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Opportunistic_infection"
   },
-  { "id": "Q836356", "wikipediaURL": "https://en.wikipedia.org/wiki/Croup" },
+  {
+    "id": "Q836356",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Croup"
+  },
   {
     "id": "Q837054",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Adenovirus_infection"
@@ -17734,8 +18163,14 @@
     "id": "Q840646",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Premature_heart_beat"
   },
-  { "id": "Q840910", "wikipediaURL": "https://en.wikipedia.org/wiki/Metritis" },
-  { "id": "Q841989", "wikipediaURL": "https://en.wikipedia.org/wiki/Epulis" },
+  {
+    "id": "Q840910",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Metritis"
+  },
+  {
+    "id": "Q841989",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Epulis"
+  },
   {
     "id": "Q842169",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Sparganosis"
@@ -17868,7 +18303,10 @@
     "id": "Q861645",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Gaucher%27s_disease"
   },
-  { "id": "Q861814", "wikipediaURL": "https://en.wikipedia.org/wiki/Biloma" },
+  {
+    "id": "Q861814",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Biloma"
+  },
   {
     "id": "Q861845",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Kernicterus"
@@ -17949,7 +18387,10 @@
     "id": "Q881855",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Molar_pregnancy"
   },
-  { "id": "Q882077", "wikipediaURL": "https://en.wikipedia.org/wiki/Blastoma" },
+  {
+    "id": "Q882077",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Blastoma"
+  },
   {
     "id": "Q883850",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Blepharophimosis"
@@ -18034,7 +18475,10 @@
     "id": "Q906264",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Phthisis_bulbi"
   },
-  { "id": "Q906492", "wikipediaURL": "https://en.wikipedia.org/wiki/Dystonia" },
+  {
+    "id": "Q906492",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Dystonia"
+  },
   {
     "id": "Q9079046",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Nonsyndromic_deafness"
@@ -18251,7 +18695,10 @@
     "id": "Q931538",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Mucolipidosis_type_IV"
   },
-  { "id": "Q932843", "wikipediaURL": "https://en.wikipedia.org/wiki/Pulpitis" },
+  {
+    "id": "Q932843",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Pulpitis"
+  },
   {
     "id": "Q932899",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Kocher%E2%80%93Debre%E2%80%93Semelaigne_syndrome"
@@ -18268,7 +18715,10 @@
     "id": "Q935129",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Postpartum_depression"
   },
-  { "id": "Q935293", "wikipediaURL": "https://en.wikipedia.org/wiki/Purpura" },
+  {
+    "id": "Q935293",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Purpura"
+  },
   {
     "id": "Q935710",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Mitochondrial_disease"
@@ -18469,7 +18919,10 @@
     "id": "Q949694",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Amoebiasis"
   },
-  { "id": "Q950591", "wikipediaURL": "https://en.wikipedia.org/wiki/Scotoma" },
+  {
+    "id": "Q950591",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Scotoma"
+  },
   {
     "id": "Q950838",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Germinoma"
@@ -18550,7 +19003,10 @@
     "id": "Q966149",
     "wikipediaURL": "https://en.wikipedia.org/wiki/McLeod_syndrome"
   },
-  { "id": "Q966229", "wikipediaURL": "https://en.wikipedia.org/wiki/Myxedema" },
+  {
+    "id": "Q966229",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Myxedema"
+  },
   {
     "id": "Q970203",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Milk_allergy"
@@ -18679,13 +19135,22 @@
     "id": "Q994859",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Homocystinuria"
   },
-  { "id": "Q994942", "wikipediaURL": "https://en.wikipedia.org/wiki/Bruxism" },
+  {
+    "id": "Q994942",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Bruxism"
+  },
   {
     "id": "Q998273",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Smith%E2%80%93Lemli%E2%80%93Opitz_syndrome"
   },
-  { "id": "Q10874", "wikipediaURL": "https://en.wikipedia.org/wiki/Blindness" },
-  { "id": "Q11072", "wikipediaURL": "https://en.wikipedia.org/wiki/Amnesia" },
+  {
+    "id": "Q10874",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Blindness"
+  },
+  {
+    "id": "Q11072",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Amnesia"
+  },
   {
     "id": "Q11081",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Alzheimer%27s_disease"
@@ -18698,8 +19163,14 @@
     "id": "Q11088",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Coeliac_disease"
   },
-  { "id": "Q12078", "wikipediaURL": "https://en.wikipedia.org/wiki/Cancer" },
-  { "id": "Q12090", "wikipediaURL": "https://en.wikipedia.org/wiki/Cholera" },
+  {
+    "id": "Q12078",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Cancer"
+  },
+  {
+    "id": "Q12090",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Cholera"
+  },
   {
     "id": "Q12135",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Mental_disorder"
@@ -18708,18 +19179,42 @@
     "id": "Q12152",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Myocardial_infarction"
   },
-  { "id": "Q12156", "wikipediaURL": "https://en.wikipedia.org/wiki/Malaria" },
-  { "id": "Q12174", "wikipediaURL": "https://en.wikipedia.org/wiki/Obesity" },
-  { "id": "Q12192", "wikipediaURL": "https://en.wikipedia.org/wiki/Pneumonia" },
-  { "id": "Q12195", "wikipediaURL": "https://en.wikipedia.org/wiki/Polio" },
-  { "id": "Q12199", "wikipediaURL": "https://en.wikipedia.org/wiki/HIV/AIDS" },
-  { "id": "Q12202", "wikipediaURL": "https://en.wikipedia.org/wiki/Stroke" },
+  {
+    "id": "Q12156",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Malaria"
+  },
+  {
+    "id": "Q12174",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Obesity"
+  },
+  {
+    "id": "Q12192",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Pneumonia"
+  },
+  {
+    "id": "Q12195",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Polio"
+  },
+  {
+    "id": "Q12199",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/HIV/AIDS"
+  },
+  {
+    "id": "Q12202",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Stroke"
+  },
   {
     "id": "Q12204",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Tuberculosis"
   },
-  { "id": "Q12206", "wikipediaURL": "https://en.wikipedia.org/wiki/Diabetes" },
-  { "id": "Q12214", "wikipediaURL": "https://en.wikipedia.org/wiki/Smallpox" },
+  {
+    "id": "Q12206",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Diabetes"
+  },
+  {
+    "id": "Q12214",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Smallpox"
+  },
   {
     "id": "Q1472",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Crohn%27s_disease"
@@ -18728,7 +19223,10 @@
     "id": "Q1477",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Ulcerative_colitis"
   },
-  { "id": "Q1485", "wikipediaURL": "https://en.wikipedia.org/wiki/Lupus" },
+  {
+    "id": "Q1485",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Lupus"
+  },
   {
     "id": "Q16483",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Graves%27_disease"
@@ -18805,7 +19303,10 @@
     "id": "Q26967",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Telogen_effluvium"
   },
-  { "id": "Q2836", "wikipediaURL": "https://en.wikipedia.org/wiki/Aphasia" },
+  {
+    "id": "Q2836",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Aphasia"
+  },
   {
     "id": "Q28693",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Miscarriage"
@@ -18814,12 +19315,18 @@
     "id": "Q28814",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Autoimmune_hemolytic_anemia"
   },
-  { "id": "Q29496", "wikipediaURL": "https://en.wikipedia.org/wiki/Leukemia" },
+  {
+    "id": "Q29496",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Leukemia"
+  },
   {
     "id": "Q30953",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Dengue_fever"
   },
-  { "id": "Q31798", "wikipediaURL": "https://en.wikipedia.org/wiki/Chancroid" },
+  {
+    "id": "Q31798",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Chancroid"
+  },
   {
     "id": "Q32446",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Pulmonary_fibrosis"
@@ -18844,8 +19351,14 @@
     "id": "Q33121",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Serum_sickness"
   },
-  { "id": "Q33525", "wikipediaURL": "https://en.wikipedia.org/wiki/Carcinoma" },
-  { "id": "Q35869", "wikipediaURL": "https://en.wikipedia.org/wiki/Asthma" },
+  {
+    "id": "Q33525",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Carcinoma"
+  },
+  {
+    "id": "Q35869",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Asthma"
+  },
   {
     "id": "Q35890",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Hypersensitivity_pneumonitis"
@@ -18854,14 +19367,26 @@
     "id": "Q36855",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Swine_influenza"
   },
-  { "id": "Q36956", "wikipediaURL": "https://en.wikipedia.org/wiki/Leprosy" },
-  { "id": "Q39222", "wikipediaURL": "https://en.wikipedia.org/wiki/Rabies" },
+  {
+    "id": "Q36956",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Leprosy"
+  },
+  {
+    "id": "Q39222",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Rabies"
+  },
   {
     "id": "Q40301",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Parathyroid_carcinoma"
   },
-  { "id": "Q40878", "wikipediaURL": "https://en.wikipedia.org/wiki/Diarrhea" },
-  { "id": "Q41083", "wikipediaURL": "https://en.wikipedia.org/wiki/Syphilis" },
+  {
+    "id": "Q40878",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Diarrhea"
+  },
+  {
+    "id": "Q41083",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Syphilis"
+  },
   {
     "id": "Q41091",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Anal_stricture"
@@ -18874,7 +19399,10 @@
     "id": "Q41478",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Hemorrhoid"
   },
-  { "id": "Q41571", "wikipediaURL": "https://en.wikipedia.org/wiki/Epilepsy" },
+  {
+    "id": "Q41571",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Epilepsy"
+  },
   {
     "id": "Q41861",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Hypertension"
@@ -18883,7 +19411,10 @@
     "id": "Q42844",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Major_depressive_disorder"
   },
-  { "id": "Q42982", "wikipediaURL": "https://en.wikipedia.org/wiki/Allergy" },
+  {
+    "id": "Q42982",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Allergy"
+  },
   {
     "id": "Q43405",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Exhibitionism"
@@ -18900,7 +19431,10 @@
     "id": "Q47715",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Down_syndrome"
   },
-  { "id": "Q47790", "wikipediaURL": "https://en.wikipedia.org/wiki/Tetanus" },
+  {
+    "id": "Q47790",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Tetanus"
+  },
   {
     "id": "Q47912",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Lung_cancer"
@@ -18949,8 +19483,14 @@
     "id": "Q53829",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Thyroid_nodule"
   },
-  { "id": "Q5445", "wikipediaURL": "https://en.wikipedia.org/wiki/Anemia" },
-  { "id": "Q55998", "wikipediaURL": "https://en.wikipedia.org/wiki/Pleurisy" },
+  {
+    "id": "Q5445",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Anemia"
+  },
+  {
+    "id": "Q55998",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Pleurisy"
+  },
   {
     "id": "Q56002",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Ventricular_tachycardia"
@@ -18983,6 +19523,12 @@
     "id": "Q8285",
     "wikipediaURL": "https://en.wikipedia.org/wiki/Myasthenia_gravis"
   },
-  { "id": "Q8388", "wikipediaURL": "https://en.wikipedia.org/wiki/Pedophilia" },
-  { "id": "Q8392", "wikipediaURL": "https://en.wikipedia.org/wiki/Zoophilia" }
+  {
+    "id": "Q8388",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Pedophilia"
+  },
+  {
+    "id": "Q8392",
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Zoophilia"
+  }
 ]
