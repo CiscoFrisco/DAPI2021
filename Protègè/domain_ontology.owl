@@ -24,7 +24,6 @@
     <!-- http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#hasCauses -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#hasCauses">
-        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Disease"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Cause"/>
     </owl:ObjectProperty>
@@ -34,7 +33,6 @@
     <!-- http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#hasDrugs -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#hasDrugs">
-        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Disease"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
     </owl:ObjectProperty>
@@ -44,7 +42,6 @@
     <!-- http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#hasSpecialty -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#hasSpecialty">
-        <rdfs:domain rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Disease"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Specialty"/>
     </owl:ObjectProperty>
     
