@@ -305,6 +305,16 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q1074056 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q1074056">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Triamcinoloneis aglucocorticoidused to treat certainskin diseases, allergies, andrheumatic disordersamong others.It is also used to prevent worsening ofasthmaandCOPD.It can be taken in various ways including by mouth,injection into a muscle, andinhalation.Common side effects with long-term use includeosteoporosis,cataracts,thrush, andmuscle weakness.Serious side effects may includepsychosis, increased risk of infections,adrenal suppression, andbronchospasm.Use inpregnancyis generally safe.It works by decreasinginflammationandimmune systemactivity.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Triamcinolone</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q1087499 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q1087499">
@@ -777,6 +787,36 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q145052 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q145052">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zaleplon, sold under the brand namesSonataamong others, is asedative-hypnotic, used to treatinsomnia. It is anonbenzodiazepinehypnoticfrom thepyrazolopyrimidineclass.It is manufactured byKing PharmaceuticalsandGedeon Richter Plc.. It has been discontinued inCanadabut can be manufactured if a prescription is brought to acompounding pharmacy.It was prescribed rarely in theUnited Kingdom, withzopiclonebeing the preferredZ-drugby theNational Health Service(NHS)and is now unavailable.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zaleplon</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q146075 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q146075">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zanamiviris a medication used to treat and preventinfluenzacaused byinfluenza AandB viruses. It is aneuraminidase inhibitorand was developed by the Australian biotech firm Biota Holdings. It was licensed to Glaxo in 1990 and approved in the US in 1999, only for use as a treatment for influenza. In 2006, it was approved for prevention of influenza A and B.Zanamivir was the first neuraminidase inhibitor commercially developed. It is currently marketed byGlaxoSmithKlineunder thetrade nameRelenzaas a powder for oral inhalation.Zanamivir is used for the treatment of infections caused by influenza A and influenza B viruses, but in otherwise-healthy individuals, benefits overall appear to be small. It decreases the risk of one&apos;s getting symptomatic, but not asymptomatic influenza. The combination of diagnostic uncertainty, the risk for virus strain resistance, possible side effects and financial cost outweigh the small benefits of zanamivir for the prophylaxis and treatment of healthy individuals.As of 2009, no influenza had shown any signs of resistance in the US.Since then, genes expressing resistance to zanamivir were found in Chinese people infected with avian influenza A H7N9 during treatment with zanamivir.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zanamivir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q1470932 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q1470932">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Toltrazurilis acoccidiostat.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Toltrazuril</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q1472 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q1472">
@@ -821,6 +861,16 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
         <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Cause"/>
         <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Salmonellais agenusofrod-shaped(bacillus)Gram-negative bacteriaof the familyEnterobacteriaceae. The two species ofSalmonellaareSalmonella entericaandSalmonella bongori.S. entericais the type species and is further divided into sixsubspeciesthat include over 2,600serotypes.Salmonellawas named afterDaniel Elmer Salmon(18501914), an Americanveterinary surgeon.Salmonellaspecies are non-spore-forming, predominantlymotileenterobacteriawith cell diameters between about 0.7 and 1.5m, lengths from 2 to 5 m, and peritrichousflagella(all around the cell body).They arechemotrophs, obtaining their energy fromoxidation and reduction reactionsusing organic sources. They are alsofacultative anaerobes, capable of generatingATPwith oxygen (&quot;aerobically&quot;) when it is available, or whenoxygenis not available, using other electron acceptors or fermentation (&quot;anaerobically&quot;).</untitled-ontology-3:overview>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Salmonella</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q15211075 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q15211075">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Uramustine(INN) oruracil mustardis achemotherapydrugwhich belongs to the class ofalkylating agents.  It is used inlymphaticmalignancies such asnon-Hodgkin&apos;s lymphoma. It works by damagingDNA, primarily incancercells that preferentially take up theuracildue to their need to makenucleic acidsduring their rapid cycles ofcell division. The DNA damage leads toapoptosisof the affected cells.Bone marrowsuppression and nausea are the main side effects.Chemically it is a derivative ofnitrogen mustardanduracil.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Uracil mustard</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -892,6 +942,16 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
         <untitled-ontology-3:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">human and animal infectious disease</untitled-ontology-3:description>
         <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Leptospirosisis ablood infectioncaused by the bacteriaLeptospira.Signs and symptoms can range from none to mild (headaches,muscle pains, andfevers) to severe (bleeding in the lungsormeningitis).Weil&apos;s disease, the acute, severe form of leptospirosis, causes the infected individual to becomejaundiced(skin and eyes become yellow), developkidney failure, and bleed.Bleeding from the lungs associated with leptospirosis is known as &quot;severe pulmonary haemorrhage syndrome&quot;.More than ten genetic types ofLeptospiracause disease in humans.Both wild and domestic animals can spread the disease, most commonlyrodents.The bacteria are spread to humans throughanimal urine, or water and soil contaminated with animal urine, coming into contact with theeyes, mouth, nose or breaks in theskin.In developing countries, the disease occurs most commonly in farmers and low-income people who live in areas with poor sanitation.In developed countries, it occurs during heavy downpours and is a risk tosewageworkersand those involved in outdoor activities in warm and wet areas.Diagnosis is typically by testing forantibodiesagainst the bacteria or finding bacterialDNAin the blood.</untitled-ontology-3:overview>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Leptospirosis</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q155472 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q155472">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valsartan, sold under the trade nameDiovanamong others, is a medication used to treathigh blood pressure,heart failure, anddiabetic kidney disease.It is a reasonable initial treatment for high blood pressure.It is taken by mouth.Versions are available as the combinationvalsartan/hydrochlorothiazide,valsartan/amlodipine,valsartan/amlodipine/hydrochlorothiazide, orvalsartan/sacubitril.Common side effects include feeling tired, dizziness,high blood potassium, diarrhea, and joint pain.Other serious side effects may includekidney problems,low blood pressure, andangioedema.Use inpregnancymay harm the baby and use whenbreastfeedingis not recommended.It is anangiotensin II receptor antagonistand works by blocking the effects ofangiotensin II.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valsartan</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1080,6 +1140,26 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q1752915 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q1752915">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trifluoperazine, sold under a number of brand names, is atypical antipsychoticprimarily used to treatschizophrenia.It may also be used short term in those withgeneralized anxiety disorderbut is less preferred tobenzodiazepines.It is of thephenothiazinechemical class.Trifluoperazine is an effectiveantipsychoticfor people with schizophrenia.There is low-quality evidence that trifluoperazine increases the chance of being improved when compared to placebo when people are followed up for 19 weeks.There is low-quality evidence that trifluoperazine reduces the risk of relapse when compared with placebo when people are followed for 5 months.As of 2014 there was no good evidence for a difference between trifluoperazine andplacebowith respect to the risk of experiencing intensified symptoms over a 16-week period nor in reducing significant agitation or distress.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trifluoperazine</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q1758380 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q1758380">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tobramycinis anaminoglycosideantibioticderived fromStreptomyces tenebrariusthat is used to treat various types ofbacterialinfections, particularlyGram-negativeinfections. It is especially effective against species ofPseudomonas.It was patented in 1965 and approved for medical use in 1974.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tobramycin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q1806636 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q1806636">
@@ -1179,6 +1259,16 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q190077 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q190077">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fume: TWA 5 mg/m3ST 10 mg/m3Zinc oxideis aninorganic compoundwith theformulaZnO. ZnO is a white powder that is insoluble in water. It is used as an additive in numerous materials and products including cosmetics, food supplements, rubbers, plastics, ceramics, glass, cement, lubricants,paints, ointments, adhesives, sealants, pigments,foods, batteries, ferrites, fire retardants, and first-aid tapes. Although it occurs naturally as the mineralzincite, most zinc oxide is produced synthetically.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zinc oxide</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q1919436 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q1919436">
@@ -1228,12 +1318,41 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q198473 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q198473">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ziconotide(SNX111;Prialt) is an atypicalanalgesicagent for the amelioration of severe andchronic pain. Derived fromConus magus, a cone snail, it is thesynthetic formof an  -conotoxinpeptide.It is 1,000 times as powerful asmorphine.In December 2004 theFood and Drug Administrationapproved ziconotidewhen deliveredas an infusion into thecerebrospinal fluidusing anintrathecalpump system.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ziconotide</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q198504 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q198504">
         <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
         <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zidovudine(ZDV), also known asazidothymidine(AZT), is anantiretroviral medicationused to prevent and treatHIV/AIDS.It is generally recommended for use with other antiretrovirals.It may be used to preventmother-to-child spread during birthor after aneedlestick injuryor other potential exposure.It is sold both by itself and together aslamivudine/zidovudineandabacavir/lamivudine/zidovudine.It can be used by mouth or by slowinjection into a vein.Common side effects include headaches, fever, and nausea.Serious side effects includeliver problems,muscle damage, andhigh blood lactate levels.It is commonly used inpregnancyand appears to be safe for the baby.ZDV is of thenucleoside analog reverse-transcriptase inhibitor(NRTI) class.It works by inhibiting theenzymereverse transcriptasethat HIV uses to make DNA and therefore decreases replication of the virus.</untitled-ontology-3:overview>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zidovudine</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q20126637 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q20126637">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xadani</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q202998 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q202998">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zileuton(trade name Zyflo) is an orally active inhibitor of5-lipoxygenase, and thus inhibitsleukotrienes(LTB4, LTC4, LTD4, and LTE4) formation, used for the maintenance treatment ofasthma.  Zileuton was introduced in 1996 byAbbott Laboratoriesand is now marketed in two formulations by Cornerstone Therapeutics Inc. under the brand names Zyflo and Zyflo CR.  The original immediate-release formulation, Zyflo, is taken four times per day. The extended-release formulation, Zyflo CR, is taken twice daily.Although the 600 mg immediate release tablet (Zyflo) and extended release formulation of zileuton are still available (Zyflo CR), the 300 mg immediate release tablet was withdrawn from the U.S. market on February 12, 2008.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zileuton</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1258,11 +1377,78 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q204962 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q204962">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tin(II) fluoride, commonly referred to commercially asstannous fluoride(fromLatinstannum, &apos;tin&apos;), is achemical compoundwith the formula SnF2. It is a colourless solid used as an ingredient intoothpastes.Stannous fluoride was introduced as an alternative tosodium fluoridefor the prevention of cavities.  It was introduced for this purpose by Joseph Muhler and William Nebergall. In recognition for their innovation, these two individuals were inducted into the Inventor&apos;s Hall of Fame.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tin(II) fluoride</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q205517 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q205517">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ziprasidone, sold under the brand nameGeodonamong others, is anatypical antipsychoticused to treatschizophreniaandbipolar disorder.It may be usedby mouthand byinjection into a muscle(IM).The IM form may be used for acuteagitationin people with schizophrenia.Common side effects includedizziness,drowsiness,dry mouth, andtwitches.Although it can also causeweight gain, the risk is much lower than for other antipsychotics.How it works is not entirely clear but is believed to involve effects onserotoninanddopaminein thebrain.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ziprasidone</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2070286 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2070286">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vismodegib(trade nameErivedge/rvd/ERR-i-vej) is adrugfor the treatment ofbasal-cell carcinoma(BCC). The approval of vismodegib on January 30, 2012, represents the firstHedgehog signaling pathwaytargeting agent to gain U.S.Food and Drug Administration(FDA) approval.The drug is also undergoing clinical trials for metastaticcolorectal cancer,small-cell lung cancer, advancedstomach cancer,pancreatic cancer,medulloblastomaandchondrosarcomaas of June 2011.The drug was developed by thebiotechnology/pharmaceuticalcompanyGenentech.Vismodegib is indicated for patients withbasal cell carcinoma(BCC) which has metastasized to other parts of the body, relapsed after surgery, or cannot be treated with surgery or radiation.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vismodegib</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2072745 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2072745">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trichlormethiazide(INN, currently being sold under the brand names ofAchletin,Diu-HydrinandTriflumen) is adiureticwith properties similar to those ofhydrochlorothiazide.It is usually administered for the treatment ofoedema(including that which is associated withheart failure,hepatic cirrhosisandcorticosteroidtherapy) andhypertension.Inveterinary medicine, trichlormethiazide can be combined withdexamethasoneto be used on horses with mild swelling ofdistallimbs and generalbruising.As a diuretic (in particular athiazide), trichlormethiazide encourages water loss from the body.Trichlormethiazide works byinhibitingNa+/Clion reabsorption from thedistaltubulesof thekidneys.In addition, trichlormethiazide increases theexcretionofpotassium.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trichlormethiazide</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q20801760 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q20801760">
         <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Treatment"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intravenous Immunoglobulin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q20816877 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q20816877">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thyrotropin Alfa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q20817224 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q20817224">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thyroglobulin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q20817252 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q20817252">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tinzaparin</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1306,6 +1492,96 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q218507 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q218507">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zoledronic acid, also known aszoledronate, is a medication used to treat a number ofbone diseases.These includeosteoporosis,high blood calciumdue tocancer,bone breakdowndue to cancer, andPagets disease of bone.It is given byinjection into a vein.Common side effects includefever,joint pain,high blood pressure, diarrhea, and feeling tired.Serious side effects may includekidney problems,low blood calcium, andosteonecrosis of the jaw.Use duringpregnancymay result in harm to the baby.It is in thebisphosphonatefamily of medications.It works by blocking the activity ofosteoclast cellsand thus decreases the breakdown of bone.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zoledronic acid</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q218820 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q218820">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zolmitriptan, sold under the brand nameZomigamong others, is atriptanused in the acute treatment ofmigraineattacks with or withoutauraandcluster headaches. It is a selectiveserotonin receptor agonistof the 1B and 1D subtypes.It was patented in 1990 and approved for medical use in 1997.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zolmitriptan</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q218842 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q218842">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zolpidem, sold under the brand nameAmbien,among others, is a medication primarily used for the short-term treatment ofsleeping problems.Guidelines recommend that it be used only aftercognitive behavioral therapy for insomniaand behavioral changes, such assleep hygiene, have been tried.It decreases the time tosleep onsetby about fifteen minutes and at larger doses helps people stay asleep longer.It is takenby mouthand is available in conventional tablets,sublingual tablets, ororal spray.Common side effects include daytimesleepiness, headache, nausea, and diarrhea.Other side effects includememory problems,hallucinations, andsubstance abuse.The previously recommended dose was decreased in 2013, by the USFood and Drug Administration(FDA), to theimmediate-release10mg for men, and 5mg for women, in an attempt to reduce next-daysomnolence.Newerextended-releaseformulations include the 6.25mg for women, and 12.5mg or 6.25mg for men, which also cause next-day somnolence when used in higher doses.Additionally, driving the next morning is not recommended with either higher doses or the long-acting formulation.Whileflumazenil, aGABAAreceptorantagonist, can reverse zolpidem&apos;s effects, usuallysupportive careis all that is recommended in overdose.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zolpidem</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2193376 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2193376">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Travoprost, sold under the brand nameTravatanamong others, is medications used to treathigh pressure inside the eyeincludingglaucoma.Specifically it is used foropen angle glaucomawhen other agents are not sufficient.It is used as an eye drop.Effects generally occur within 2 hours.Common side effects include red eyes, blurry vision, eye pain, dry eyes, and change in color of the eyes.Other significant side effects may includecataracts.Use duringpregnancyorbreastfeedingis generally not recommended.It is aprostaglandinanalog and works by increasing the outflow ofaqueous fluidfrom the eyes.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Travoprost</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q219957 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q219957">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zonisamideis a medication used to treat the symptoms ofepilepsyandParkinson&apos;s disease.Chemically it is asulfonamide. It serves as ananticonvulsantused primarily as anadjunctivetherapy in adults with Parkinson&apos;s disease,partial-onset seizures;infantile spasm, mixed seizure types ofLennoxGastaut syndrome,myoclonicand generalizedtonic clonic seizure.Despite this it is also sometimes used as amonotherapyfor partial-onset seizures.Zonisamide is approved in the United States,and United Kingdomfor adjunctive treatment of partial seizures in adults and Japan for both adjunctive and monotherapy for partial seizures (simple, complex, secondarily generalized), generalized (tonic, tonic-clonic (grand mal), and atypical absence) and combined seizures.In Australia it is marketed as both an adjunctive therapy and monotherapy for partial seizures only.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zonisamide</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q220426 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q220426">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zopiclone, sold under the brand nameImovaneamong others, is anonbenzodiazepineused to treatdifficulty sleeping. Zopiclone is molecularly distinct from benzodiazepine drugs and is classed as acyclopyrrolone. However, zopiclone increases the normal transmission of theneurotransmittergamma-aminobutyric acid(GABA) in the central nervous system, via modulating benzodiazepine receptors in the same way thatbenzodiazepinedrugs do.Zopiclone is asedative. It works by causing a depression or tranquilization of the central nervous system.  After prolonged use, the body can become accustomed to the effects of zopiclone. When the dose is then reduced or the drug is abruptly stopped, withdrawal symptoms may result. These can include a range of symptoms similar to those ofbenzodiazepine withdrawal. Although withdrawal symptoms from therapeutic doses of zopiclone and its isomers (i.e.,eszopiclone) do not typically present with convulsions and are therefore not considered life-threatening, patients may experience such significant agitation or anxiety that they seek emergency medical attention.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zopiclone</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2211240 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2211240">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Triamcinolone acetonideis asyntheticcorticosteroidusedtopicallyto treat variousskin conditions, to relieve the discomfort ofmouth sores, andintra-articularlyby proceduralists to treat variousjoint conditions.In nasal spray form, it is used to treatallergic rhinitis. It is a morepotentderivative oftriamcinolone, and is about eight times as potent asprednisone.It is also known under the brand namesKenalog(topical) andVolon Aas an injection, to treat allergies, arthritis, eye diseases, intestinal problems, and skin diseases.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Triamcinolone acetonide</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q221174 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q221174">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Topiramate, sold under the brand nameTopamaxamong others, is a medication used to treatepilepsyand preventmigraines.It has also been used inalcohol dependence.For epilepsy this includes treatment forgeneralizedorfocal seizures.It is taken by mouth.Common side effects includetingling,loss of appetite, feeling tired, abdominal pain,hair loss, and trouble concentrating.Serious side effects may includesuicide, increasedammonialevels resulting inencephalopathy, andkidney stones.Use inpregnancymay result in harm to the baby and use duringbreastfeedingis not recommended.How it works is unclear.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Topiramate</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q221520 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q221520">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Triamterene(trade nameDyreniumamong others) is apotassium-sparing diureticoften used in combination withthiazidediuretics for the treatment ofhigh blood pressureorswelling. The combination withhydrochlorothiazide, is known ashydrochlorothiazide/triamterene.Commonside effectsmay include a depletion ofsodium,folic acidandcalcium, nausea, vomiting, diarrhea, headache, dizziness, fatigue, and dry mouth. Serious side effects may include heart palpitations, tingling/numbness, fever, chills, sore throat, rash, and back pain. Triamterene can also causekidney stonesthrough direct crystallization or by seedingcalcium oxalatestones. Triamterene is best avoided in patients with chronic kidney disease due to the possibility ofhyperkalemia. People using this drug should usesalt substitutecautiously.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Triamterene</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2264130 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2264130">
@@ -1329,6 +1605,16 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q22677926">
         <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Treatment"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Interferon alpha 2</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q226905 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q226905">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zotepineis anatypical antipsychoticdrugindicated for acute and chronicschizophrenia. It has been used inGermanysince 1990 (although it has been discontinued in Germany) andJapansince 1982.Zotepine is not approved for use in the United States, United Kingdom, Australia, Canada or New Zealand.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zotepine</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1363,6 +1649,46 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2359590 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2359590">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trifluridine(also calledtrifluorothymidineorTFT) is an anti-herpesvirusantiviral drug, used primarily on theeye. It was sold under the trade nameViropticby Glaxo Wellcome, now merged intoGlaxoSmithKline. The brand is now owned byMonarch Pharmaceuticals, which is wholly owned byKing Pharmaceuticals.Trifluridine was approved for medical use in 1980.It is also a component of the anti-cancer drugtrifluridine/tipiracil, which is taken by mouth.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trifluridine</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q23671272 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q23671272">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Venetoclax, sold under the brand namesVenclextaandVenclyxto, is a medication used to treat adults withchronic lymphocytic leukemia(CLL) orsmall lymphocytic lymphoma(SLL).The most common side effects are low levels of neutrophils (a type of white blood cell),diarrhea,nausea,anemia(low red blood cell counts), nose and throat infection and tiredness.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Venetoclax</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q240642 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q240642">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valproate(VPA) and itsvalproic acid,sodium valproate, andvalproate semisodiumforms are medications primarily used to treatepilepsyandbipolar disorderand preventmigraine headaches.They are useful for the prevention of seizures in those withabsence seizures,partial seizures, andgeneralized seizures.They can be givenintravenouslyor by mouth, and the tablet forms exist in both long- and short-acting formulations.Common side effects of valproate include nausea, vomiting, sleepiness, and dry mouth.Serious side effects can includeliver failure, and regular monitoring ofliver function testsis therefore recommended.Other serious risks includepancreatitisand an increasedsuiciderisk.Valproate is known to cause serious abnormalities in babies if taken duringpregnancy,and as such it is not typically recommended for women of childbearing age who have migraines.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valproic acid</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q241374 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q241374">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ursodeoxycholic acid(UDCA), also known asursodiol, is a secondarybile acid, produced in humans and most other species from metabolism by intestinal bacteria.  It is synthesized in the liver in some species, and was first identified inbear bile, which is the derivation of its nameUrsus.  In purified form, it has been used to treat or prevent several diseases of theliverorbile ducts.UDCA has been used as medical therapy ingallstonedisease (cholelithiasis) and forbiliary sludge.UDCA helps reduce thecholesterolsaturation of bile and leads to gradual dissolution of cholesterol-rich gallstones.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ursodiol</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q244150 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q244150">
@@ -1378,6 +1704,16 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q24885926">
         <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Treatment"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intravenous fluid replacement</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q25110523 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q25110523">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sofosbuvir/velpatasvir, sold under the brand nameEpclusaamong others, is afixed-dose combinationmedication for the treatment ofhepatitis Cin adults.It combinessofosbuvirandvelpatasvir.It is more than 90% effective for hepatitis Cgenotypesone through six.It also works for hepatitis C in those who also havecirrhosisorHIV/AIDS.It is taken by mouth.In March 2020, sofosbuvir/velpatasvir was approved for use in the United States to treat hepatitis C virus (HCV) in children ages six years and older or weighing at least 37 pounds (17 kilograms) with any of the six HCV genotypesor strainswithout cirrhosis (liver disease) or with mild cirrhosis. Sofosbuvir/velpatasvir in combination with ribavirin is indicated for the treatment of children six years and older or weighing at least 37 pounds with severe cirrhosis.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Velpatasvir/sofosbuvir</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1402,12 +1738,62 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2569888 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2569888">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trimebutineis a drug withantimuscarinicand weakmuopioidagonisteffects.It is used for the treatment ofirritable bowel syndromeand other gastrointestinal disorders.The major product fromdrug metabolismof trimebutine in human beings isnortrimebutine,which comes from removal of one of the methyl groups attached to the nitrogen atom. Trimebutine exerts its effects in part due to causing a premature activation of phase III of themigrating motor complexin the digestive tract.Both trimebutine and its metaboliteare commercially available.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trimebutine</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q257331 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q257331">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Streptozotocinorstreptozocin(INN,USP) (STZ) is a naturally occurring alkylating antineoplastic agent that is particularly toxic to the insulin-producingbeta cellsof thepancreasin mammals. It is used inmedicinefor treating certaincancers of the islets of Langerhansand used in medical research to produce ananimal modelforhyperglycemiaandAlzheimer&apos;sin a large dose, as well astype 2 diabetesortype 1 diabeteswith multiple low doses.Streptozotocin is approved by the U.S.Food and Drug Administration(FDA) for treatingmetastaticcancer of thepancreatic islet cells. Since it carries a substantial risk of toxicity and rarely cures the cancer, its use is generally limited to patients whose cancer cannot be removed by surgery. In these patients, streptozotocin can reduce the tumor size and reduce symptoms (especiallyhypoglycemiadue to excessiveinsulinsecretion byinsulinomas).A typical dose is 500 mg/m2/day by intravenous injection, for 5 days, repeated every 46 weeks.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Α-streptozocin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q258450 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q258450">
         <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
         <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Benzylpenicillin, also known aspenicillin G, is anantibioticused to treat a number ofbacterialinfections.This includespneumonia,strep throat,syphilis,necrotizing enterocolitis,diphtheria,gas gangrene,leptospirosis,cellulitis, andtetanus.It is not a first-line agent forpneumococcalmeningitis.Benzylpenicillin is given byinjection into a veinormuscle.Two long-acting formsbenzathine benzylpenicillinandprocaine benzylpenicillinare available for use by injection into a muscle.Side effects includediarrhea,seizures, andallergic reactionsincludinganaphylaxis.When used to treat syphilis or Lyme disease a reaction known asJarischHerxheimermay occur.It is not recommended in those with a history ofpenicillin allergy.Use during pregnancy is generally thepenicillinand-lactamclass of medications.</untitled-ontology-3:overview>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Penicillin G</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2601832 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2601832">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ticarcillinis acarboxypenicillin. It is almost alwayssold and used in combination withclavulanateasticarcillin/clavulanic acid. Because it is a penicillin, it also falls within the larger class ofbeta-lactamantibiotics. Its main clinical use is as an injectable antibiotic for the treatment ofGram-negativebacteria, particularlyPseudomonas aeruginosa. It is also one of the few antibiotics capable of treatingStenotrophomonas maltophiliainfections.It is provided as a white or pale-yellow powder. It is highly soluble in water, but should be dissolved only immediately before use to prevent degradation.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ticarcillin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q260326 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q260326">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tioconazoleis anantifungal medicationof theimidazoleclass used to treat infections caused by a fungus or yeast. It is marketed under the brand names Trosyd and Gyno-Trosyd (Pfizer, nowJohnson &amp; Johnson). Tioconazole ointments serve to treat women&apos;s vaginalyeast infections.They are available in one day doses, as opposed to the 7-day treatments more common in use in the past.Tioconazole topical (skin) preparations are also available forringworm,jock itch,athlete&apos;s foot, andtinea versicoloror &quot;sun fungus&quot;.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tioconazole</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2623251 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2623251">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alimemazine(INN), also known astrimeprazine, (brand namesNedeltran,Panectyl,Repeltin,Therafene,Theraligene,Theralen,Theralene,Vallergan,Vanectyl, andTemaril), commonly provided as atartratesalt, is aphenothiazinederivative that is used as anantipruritic(it prevents itching from causes such aseczemaorpoison ivy, by acting as anantihistamine).It also acts as asedative,hypnotic, andantiemeticfor prevention ofmotion sickness. Although it is structurally related to drugs such aschlorpromazine, it is not used as anantipsychotic.In the Russian Federation, it is marketed under the brand nameTeraligenfor the treatment of anxiety disorders (includingGAD), organic mood disorders, sleep disturbances, personality disorders accompanied by asthenia and depression,somatoformautonomic dysfunctionand variousneuroses.Alimemazine is not approved for use in humans in the United States. The combination of alimemazine andprednisolone(commonly sold under the brand nameTemaril-P) is licensed as an antipruritic andantitussivein dogs.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trimeprazine</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1438,6 +1824,15 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q27139037 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q27139037">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vilazodone hydrochloride</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2715018 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2715018">
@@ -1463,6 +1858,24 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q27271585 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q27271585">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valinegramicidin a</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q27278051 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q27278051">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transclopenthixol</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2736402 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2736402">
@@ -1479,6 +1892,35 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
         <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
         <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chloramphenicolis anantibioticuseful for the treatment of a number ofbacterial infections.This includes use as aneye ointmentto treatconjunctivitis.By mouth or byinjection into a vein, it is used to treatmeningitis,plague,cholera, andtyphoid fever. This medication can be also used to treat a chest infection with positive results on older people.Its use by mouth or by injection is only recommended when safer antibiotics cannot be used.Monitoring both blood levels of the medication and blood cell levels every two days is recommended during treatment.Common side effects includebone marrow suppression, nausea, and diarrhea.The bone marrow suppression may result in death.To reduce the risk of side effects treatment duration should be as short as possible.People with liver or kidney problems may need lower doses.In young children a condition known asgray baby syndromemay occur which results in a swollen stomach andlow blood pressure.Its use near the end of pregnancy and during breastfeeding is typically not recommended.Chloramphenicol is abroad-spectrum antibioticthat typicallystops bacterial growthby stopping the production of proteins.</untitled-ontology-3:overview>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chloramphenicol</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q27895847 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q27895847">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thioguanine hydrate</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2823312 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2823312">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tiludronic acid(INN;  also known as tiludronate) is abisphosphonateused for treatment ofPaget&apos;s disease of bone(osteitis deformans) in human medicine. It has the tradenameSkelid. In veterinary medicine, tiludronic acid is used to treatnavicular diseaseandbone spavinin horses. Its tradenames areTildrenandEquidronate. It is approved for treatment of navicular disease and distal tarsal osteoarthritis in Europe,and was approved for treatment of navicular disease in the United States in 2014.Tiludronate is a non-nitrogenous bisphosphonate that inhibitsosteoclasts, the primary cell responsible for the breakdown of bone required forbone remodeling. Non-nitrogenous bisphosphonates are metabolized by osteoclasts to compounds that then replace a portion of theadenosine triphosphate(ATP) molecule, making it non-functional. These non-functional molecules then competitively inhibit ATP in the cell, reducing cell energy and leading toapoptosis.Decreased levels of osteoclasts subsequently reduce the degree of breakdown of bone and bone turnover. Non-nitrogenous bisphosphonates are less potent than nitrogenous bisphosphonates.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tiludronic acid</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q282629 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q282629">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vinblastine(VBL), sold under the brand nameVelbanamong others, is achemotherapy medication, typically used with other medications, to treat a number of types ofcancer.This includesHodgkin&apos;s lymphoma, non-small celllung cancer,bladder cancer,brain cancer,melanoma, andtesticular cancer.It is given byinjection into a vein.Most people experience some side effects.Commonly it causes a change in sensation,constipation, weakness, loss of appetite, andheadaches.Severe side effects includelow blood cell countsandshortness of breath.It should not be given to people who have a currentbacterial infection.Use duringpregnancywill likely harm the baby.Vinblastine works byblocking cell division.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vinblastine</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1523,6 +1965,15 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q28852343 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q28852343">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zoledronic acid monohydrate</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2920739 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2920739">
@@ -1533,12 +1984,42 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q29310 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q29310">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tropicamide, sold under the brand nameMydriacylamong others, is a medication used todilate the pupiland help withexamination of the eye.Specifically it is used to help examine theback of the eye.It is applied aseye drops.Effects occur within 40 minutes and last for up to a day.Common side effects includeblurry vision,increased intraocular pressure, andsensitivity to light.Another rare but severe side effect ispsychosis, particularly in children.It is unclear if use duringpregnancyis safe for the baby.Tropicamide is in theantimuscarinicpart of theanticholinergicfamily of medications.It works by making the muscles within the eye unable to respond to nerve signals.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tropicamide</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q29417 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q29417">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tretinoin, also known asall-transretinoic acid(ATRA), is medication used for the treatment ofacneandacute promyelocytic leukemia.For acne, it is applied to the skin as a cream, gel or ointment.For leukemia, it is taken by mouth for up to three months.Common side effects when used as a cream are limited to the skin and include skin redness, peeling, and sun sensitivity.When used by mouth, side effects includeshortness of breath, headache, numbness, depression, skin dryness, itchiness, hair loss, vomiting, muscle pains, and vision changes.Other severe side effects includehigh white blood cell countsandblood clots.Use duringpregnancyis contraindicated due to the risk of birth defects.It is in theretinoidfamily of medications.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tretinoin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2943789 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2943789">
         <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
         <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nitazoxanideis abroad-spectrum antiparasiticandbroad-spectrum antiviraldrug that is used in medicine for the treatment of varioushelminthic,protozoal, andviralinfections.It is indicated for the treatment of infection byCryptosporidium parvumandGiardia lambliainimmunocompetentindividuals and has beenrepurposedfor the treatment ofinfluenza.Nitazoxanide has also been shown to havein vitroantiparasitic activity and clinical treatment efficacy for infections caused by other protozoa and helminths;emerging evidence suggests that it possesses efficacy in treating a number of viral infections as well.Chemically, nitazoxanide is the prototype member of thethiazolides, aclass of drugswhich are synthetic nitrothiazolyl-salicylamidederivatives with antiparasitic and antiviral activity.Tizoxanide, anactive metaboliteof nitazoxanide in humans, is also an antiparasitic drug of the thiazolide class.</untitled-ontology-3:overview>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nitazoxanide</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2991856 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q2991856">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trihexyphenidyl, also known asbenzhexolandtrihex, is anantiparkinsonianagent of theantimuscarinicclass.  It was approved by theFDAfor the treatment of Parkinson&apos;s in 2003.Trihexyphenidyl is used for the symptomatic treatment ofParkinson&apos;s diseasein mono and combination therapy.It is active inpostencephalitic,arteriosclerotic, andidiopathicforms. The drug is also commonly used to treatextrapyramidalside effects occurring duringantipsychotictreatment. It reduces the frequency and duration ofoculogyric crisesas well as ofdyskineticmovements and spastic contractions.  Trihexyphenidyl may improvepsychotic depressionandmental inertiafrequently associated with Parkinson&apos;s disease and symptomatic problems caused by antipsychotic treatment.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trihexyphenidyl</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1564,6 +2045,16 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
         <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Cause"/>
         <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cyclospora cayetanensisis acoccidianparasite that causes adiarrhealdisease calledcyclosporiasisin humans and possibly in other primates. Originally reported as a novel pathogen of probable coccidian nature in the 1980sand described in the early 1990s,it was virtually unknown in developed countries until awareness increased due to several outbreaks linked withfecallycontaminated imported produce.C. cayetanensishas since emerged as an endemic cause of diarrheal disease in tropical countries and a cause oftraveler&apos;s diarrheaand food-borne infections in developed nations.This species was placed in the genusCyclosporabecause of the spherical shape of its sporocysts. The specific name refers to theCayetano Heredia Universityin Lima, Peru, where early epidemiological and taxonomic work was done.The first published report ofCyclospora cayetanensisin humans appears to be by Ashford (1979), who found unidentifiedIsospora-likecoccidiain the feces of three individuals in Papua, New Guinea. The photomicrographs in the paper reveal an organism morphologically identical to that seen now. Later, Narango et al. (1989) reported what may be the same organism from several Peruvians with chronic diarrhea and termed the organismCryptosporidium murislike. Other investigators thought the unsporulatedoocystsappeared more similar tocyanobacteria, and the name &quot;cyanobacterium-like body&quot; or CLB became prevalent in the literature (occasionally, authors also used the term &quot;coccidian-like body&quot;, or CLB). Eventually, Ortega et al. (1992) published an abstract reporting that they had sporulated and excysted the oocysts, resulting in placement of the parasite in the genusCyclospora. They also created the nameCyclospora cayetanensisat this time. However, since no morphologic information was presented in the abstract,C. cayetanensistechnically became anomen nudum(a named species without a description). Although Ortega et al. (1993) later published additional details about this coccidian, a complete morphologic description was not published to validate the name until 1994.Thus, the correct name for this parasite isCyclospora cayetanensisOrtega, Gilman, &amp; Sterling, 1994, and the etymology of thenomen trivialeis derived from Cayetano Heredia University in Lima, Peru. During this two-year period whenC. cayetanensiswas anomen nudum, anyone wishing to publish a complete morphologic description and change the name would have been free to do so.</untitled-ontology-3:overview>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cyclospora cayetanensis</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q30314624 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q30314624">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tisagenlecleucel, sold under the brand nameKymriah, is a medication for the treatment ofB-cellacute lymphoblastic leukemia(ALL) which uses the body&apos;s ownT cellsto fightcancer(adoptive cell transfer).Serious side effects occur in most patients.The most common serious side effects are cytokine release syndrome (a potentially life-threatening condition that can cause fever, vomiting, shortness of breath, pain and low blood pressure) and decreases in platelets (components that help the blood to clot), hemoglobin (the protein found in red blood cells that carries oxygen around the body) or white blood cells including neutrophils and lymphocytes.Serious infections occur in around three in ten diffuse large B-cell lymphoma (DLBCL) patients.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tisagenlecleucel</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1599,6 +2090,16 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
         <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Cause"/>
         <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clostridioides difficile(syn.Clostridium difficile), also known asPeptoclostridium difficile,C. difficile, orC. diff(/sidf/),  isGram-positivespeciesofspore-formingbacteria.Clostridioidesspp. areanaerobic,motilebacteria, ubiquitous in nature and especially prevalent in soil. Its vegetative cells are rod-shaped,pleomorphic, and occur in pairs or short chains. Under the microscope, they appear as long, irregular (often drumstick- or spindle-shaped) cells with a bulge at their terminal ends (forms subterminal spores). UnderGram staining,C. difficilecells are Gram-positive and show optimum growth onblood agarat human body temperatures in the absence ofoxygen.C. difficileis catalase- and superoxide dismutase-negative, and produces two types of toxins:enterotoxin Aandcytotoxin B, which disrupts cytoskeleton signal transductions in the host.Under stress conditions, the bacteria producesporesthat are able to tolerate extreme conditions that the active bacteria cannot tolerate.C. difficileis an important emerging humanpathogen; according to theCDC, in 2017 there were 223,900 cases in hospitalized patients and 12,800 deaths in the United States.AlthoughC. difficileis commonly known as a hospital and antibiotic associated pathogen, at most one third of infections can be traced to transmission from an infected person in hospitals,and only a small number of antibiotics are directly associated with an elevated risk of developing aC. difficileinfection(CDI), namelyclindamycin,fluoroquinolonesandcephalosporins.The majority of infections are acquired outside of hospitals, and most antibiotics have similar elevated risk of infection on par with many non-antibiotic risk factors, such as usingstool softenersand receiving anenema.</untitled-ontology-3:overview>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clostridium difficile</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q321285 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q321285">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Coenzyme Q, also known asubiquinone, is acoenzymefamily that is ubiquitous inanimalsand mostbacteria(hence the name ubiquinone). In humans, the most common form isCoenzyme Q10orubiquinone-10. CoQ10is not approved by the U.S.Food and Drug Administration(FDA) for the treatment of any medical condition;however, it is sold as adietary supplementand is an ingredient in some cosmetics.It is a1,4-benzoquinone, whereQrefers to thequinonechemical group and10refers to the number ofisoprenylchemical subunits in its tail. In natural ubiquinones, the number can be anywhere from 6 to 10. This family of fat-soluble substances, which resemblevitamins, is present in all respiringeukaryoticcells, primarily in themitochondria. It is a component of theelectron transport chainand participates inaerobic cellular respiration, which generates energy in the form ofATP. Ninety-five percent of thehuman body&apos;s energy is generated this way.Organs with the highest energy requirementssuch as theheart,liver, andkidneyhave the highest CoQ10concentrations.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ubidecarenone</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1699,11 +2200,51 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q347613 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q347613">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valdecoxibis anonsteroidal anti-inflammatory drug(NSAID) used in the treatment ofosteoarthritis,rheumatoid arthritis, and painfulmenstruationand menstrual symptoms. It is a selectivecyclooxygenase-2 inhibitor. It was patented in 1995.Valdecoxib was manufactured and marketed under the brand nameBextrabyG. D. Searle &amp; Companyas an anti-inflammatory arthritis drug.It was approved by the United StatesFood and Drug Administrationon November 20, 2001, to treat arthritis and menstrual cramps.and was available by prescription in tablet form until 2005 when the FDA requested that Pfizer withdraw Bextra from the American market.The FDA cited &quot;potential increased risk for serious cardiovascular (CV) adverse events,&quot; an &quot;increased risk of serious skin reactions&quot; and the &quot;fact that Bextra has not been shown to offer any unique advantages over the other available NSAIDs.&quot;</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valdecoxib</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q3488952 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q3488952">
         <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Treatment"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Supportive care</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q3492447 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q3492447">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Velaglucerase alfa, sold under the brand nameVprivand manufactured byShire plc, is a hydrolyticlysosomalglucocerebroside-specific enzyme, which is a recombinant form ofglucocerebrosidaseindicated as a long-term enzyme replacement therapy for those suffering ofGaucher diseaseType 1. It has an identical amino acid sequence to the naturally occurring enzyme.It was approved for use by the U.S.Food and Drug Administration(FDA) on February 26, 2010.The most common side effects include abdominal (belly) pain, headache, dizziness, bone pain, arthralgia (joint pain), back pain, infusion-related reactions, asthenia (weakness) or fatigue (tiredness), and pyrexia (fever) or increased body temperature.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Velaglucerase alfa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q3495231 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q3495231">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Treprostinil, sold under the brand namesRemodulinfor infusion,Orenitramfor oral, andTyvasofor inhalation, is avasodilatorthat is used for the treatment ofpulmonary arterial hypertension.Treprostinil is a syntheticanalogofprostacyclin(PGI2).Treprostinil was approved for use in the United States in May 2002.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Treprostinil</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q3530324 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q3530324">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tofacitinib, sold under the brandXeljanzamong others, is a medication used to treatrheumatoid arthritis,psoriatic arthritis,ankylosing spondylitis, andulcerative colitis.Common side effects include diarrhea, headache, and high blood pressure.Serious side effects may include infections,cancer, andpulmonary embolism.In 2019, the safety committee of theEuropean Medicines Agencybegan a review of tofacitinib and recommended that doctors temporarily not prescribe the 10 mg twice-daily dose to people at high risk for pulmonary embolism.The U.S.Food and Drug Administration(FDA) also released warnings about the risk of blood clots.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tofacitinib</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1725,6 +2266,15 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q37243546 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q37243546">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y-90 microshperes in the treatment of unresectable hepatocellular carcinoma.</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q388646 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q388646">
@@ -1739,6 +2289,66 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
         <untitled-ontology-3:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Human helminthiasis</untitled-ontology-3:description>
         <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dracunculiasis, also calledGuinea-worm disease(GWD), is aparasitic infectionby theGuinea worm.A person becomes infected when they drink water that containswater fleasinfected with guinea wormlarvae.Initially there are no symptoms.About one year later, the female worm forms a painful blister in the skin, usually on a lower limb.Other symptoms at this time may include vomiting and dizziness.The worm then emerges from the skin over the course of a few weeks.During this time, it may be difficult to walk or work.It is very uncommon for the disease to cause death.In humans, the only known cause isDracunculus medinensis.The worm is about one to two millimeters wide, and an adult female is 60 to 100 centimeters long (males are much shorter at 1229 mm or 0.471.14 in).Outside  humans, theyoung formcan survive up to three weeks,during which they must be eaten by water fleas to continue to develop.The larva inside water fleas may survive up to four months.Thus, for the disease to remain in an area, it must occur each year in humans.A diagnosis of the disease can usually be made based on the signs and symptoms.</untitled-ontology-3:overview>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dracunculiasis</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q3992411 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q3992411">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tolmetin/tlmtn/is anonsteroidal anti-inflammatory drug(NSAID) of the heterocyclicacetic acidderivative class. It is used primarily to reduce hormones that cause pain, swelling, tenderness, and stiffness in conditions such asosteoarthritisandrheumatoid arthritis, includingjuvenile rheumatoid arthritis. In theUnited Statesit is marketed asTolectinand comes as a tablet or capsule.Tolmetin is applicable in the treatment ofrheumatoid arthritis,osteoarthrosis,pain,andankylosing spondylitis.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tolmetin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q3993743 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q3993743">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Toremifene, sold under the brand nameFarestonamong others, is a medication which is used in the treatment ofadvanced breast cancerinpostmenopausalwomen.It is takenby mouth.Side effectsof toremifene includehot flashes,sweating,nausea,vomiting,dizziness,vaginal discharge, andvaginal bleeding.It can also causeblood clots,irregular heartbeat,cataracts,visual disturbances,elevated liver enzymes,endometrial hyperplasia, andendometrial cancer.High blood calcium levelscan occur in women withbone metastases.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Toremifene</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q3995932 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q3995932">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tosufloxacinis afluoroquinoloneantibiotic. It has a controversial safety profile in relation to other fluoroquinolones. It is associated with severe thrombocytopenia and nephritis, and hepatotoxicity.It is sold inJapanunder the brand nameOzex.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tosufloxacin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q4006490 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q4006490">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Urofollitropinis a purified form offollicle-stimulating hormone(FSH) that is manufactured by extraction from human urine and then purifiedto remove various proteins and other substances. FSH is important in the development of follicles (eggs) produced by theovaries. Given bysubcutaneous injection, it is used in combination withhuman chorionic gonadotropin(hCG) to assist inovulationandfertility.It is also used within vitrofertilizationmethods. The dosage is adjusted to each individual&apos;s response.The most common side effects are abdominal or pelvic pain, bloating, as well as redness, pain or swelling at the injection site. Follitropin is possibly associated with increased risk of endometrial carcinoma. It is not for use during pregnancy, as there is evidence for birth defects under follitropin treatment.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Urofollitropin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q407308 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q407308">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Theophylline, also known as1,3-dimethylxanthine, is a phosphodiesterase inhibiting drug used in therapy forrespiratory diseasessuch aschronic obstructive pulmonary disease(COPD) andasthmaunder a variety of brand names. As a member of thexanthinefamily, it bears structural and pharmacological similarity totheobromineandcaffeine, and is readily found in nature, being present intea(Camellia sinensis) andcocoa(Theobroma cacao). A small amount of theophylline is one of the products of caffeine metabolic processing in theliver.Acebrophylline, an airway mucoregulator and anti-inflammatory agent is a combination product of ambroxol and theophylline 7 acetic acid.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Theophylline</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q407431 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q407431">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Warfarin, sold under the brand nameCoumadinamong others,is a medication that is used as ananticoagulant(blood thinner).It is commonly used to treatblood clotssuch asdeep vein thrombosisandpulmonary embolism, and to preventstrokein people who haveatrial fibrillation,valvular heart diseaseorartificial heart valves.Less commonly it is used followingST-segment elevation myocardial infarction(STEMI) andorthopedic surgery.It is generally taken by mouth, but may also be used byinjection into a vein.The commonside effectisbleeding.Less common side effects may include areas oftissue damageandpurple toes syndrome.Use is not recommended duringpregnancy.It is recommended that the effects of warfarin typically be monitored by checkingprothrombin time(INR) every one to four weeks.Many other medications anddietary factorscan interact with warfarin, either increasing or decreasing its effectiveness.The effects of warfarin may be reversed withphytomenadione(vitamin K1),fresh frozen plasma, orprothrombin complex concentrate.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Warfarin</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1777,6 +2387,35 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q40821">
         <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Treatment"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Surgery</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q408977 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q408977">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vincristine, also known asleurocristineand marketed under the brand nameOncovinamong others, is achemotherapymedication used to treat a number of types ofcancer.This includesacute lymphocytic leukemia,acute myeloid leukemia,Hodgkin&apos;s disease,neuroblastoma, andsmall cell lung canceramong others.It is given intravenously.Most people experience some side effects from vincristine treatment.Commonly it causes a change in sensation, hair loss, constipation, difficulty walking, and headaches.Serious side effects may includeneuropathic pain, lung damage, orlow white blood cellswhich increases the risk of infection.Use duringpregnancymay result inbirth defects.It works bystopping cells from dividing properly.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vincristine</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q410291 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q410291">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Verapamil</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q411457 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q411457">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trazodone, sold under many brand names,is anantidepressantmedication.It is used to treatmajor depressive disorder,anxiety disorders, and, with other medications,alcohol dependence.It is taken by mouth.Common side-effects includedry mouth, feeling faint, vomiting, and headache.More serious side effects may includesuicide,mania,irregular heart rate, andpathologically prolonged erections.It is unclear if use duringpregnancyorbreastfeedingis safe.It is aphenylpiperazinecompound of theserotonin antagonist and reuptake inhibitor(SARI) class.Trazodone also has sedating effects.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trazodone</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1821,6 +2460,36 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q412143 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q412143">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Triazolam(original brand nameHalcion) is acentral nervous system(CNS)depressanttranquilizer of thetriazolobenzodiazepine(TBZD) class, which arebenzodiazepine(BZD) derivatives.It possesses pharmacological properties similar to those of otherbenzodiazepines, but it is generally only used as asedativeto treatsevere insomnia.In addition to thehypnoticproperties, triazolam&apos;samnesic,anxiolytic,sedative,anticonvulsant, andmuscle relaxantproperties are pronounced, as well.Due to its short half-life, triazolam is not effective for patients who experience frequent awakenings or early wakening.Triazolam was initially patented in 1970 and went on sale in the United States in 1982.In 2017, it was the 280th most commonly prescribed medication in the United States, with more than one million prescriptions.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Triazolam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q412226 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q412226">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yohimbine(/johmbin/),also known asquebrachine, is anindoloquinolizidinealkaloidderived from the bark of the African treePausinystalia johimbe; also from the bark of the unrelated South American treeAspidosperma quebracho-blanco. Yohimbine is analpha-2 adrenergic antagonist, and has been used in a variety of research projects.  It is a veterinary drug used to reverse sedation in dogs and deer.While yohimbine behaves as anaphrodisiacin some mammals, it does not do so in humans.  It has been prescribed as a treatment forerectile dysfunction, but its reported clinical benefits were modest and it has largely been superseded by thePDE5 inhibitorclass of drugs. Substances which have purported to be extracts from the yohimbe tree have been marketed as dietary supplements for various purposes, but they contain highly variable amounts of yohimbine, if any; no published scientific evidence supports their efficacy.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yohimbine</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q412236 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q412236">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Voriconazole, sold under the brand nameVfendamong others, is anantifungal medicationused to treat a number offungal infections.This includesaspergillosis,candidiasis,coccidioidomycosis,histoplasmosis,penicilliosis, and infections byScedosporiumorFusarium.It can be takenby mouthor used byinjection into a vein.Common side effects include vision problems, nausea, abdominal pain, rash, headache, andseeing or hearing things that are not present.Use duringpregnancymay result in harm to the baby.It is in thetriazolefamily of medications.It works by affecting fungal metabolism and fungalcell membranes.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Voriconazole</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q412318 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q412318">
@@ -1841,6 +2510,56 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q412616 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q412616">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trastuzumab, sold under the brand nameHerceptinamong others, is amonoclonal antibodyused to treatbreast cancerandstomach cancer.It is specifically used for cancer that isHER2 receptor positive.It may be used by itself or together with otherchemotherapy medication.Trastuzumab is given byslow injection into a veinandinjection just under the skin.Common side effects include fever, infection, cough, headache, trouble sleeping, and rash.Other severe side effects includeheart failure,allergic reactions, andlung disease.Use duringpregnancymay harm the baby.Trastuzumab works by binding to theHER2 receptorand slowing down cell duplication.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trastuzumab</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q413772 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q413772">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tolazolineis a non-selectivecompetitive-adrenergic receptorantagonist. It is avasodilatorthat is used to treat spasms of peripheral blood vessels (as inacrocyanosis). It has also been used (in conjunction with sodium nitroprusside) successfully as an antidote to reverse the severeperipheral vasoconstrictionwhich can occur as a result ofoverdosewith certain5-HT2Aagonistdrugs such as25I-NBOMe,DOBandBromodragonfly(prolonged severe vasoconstriction can lead togangreneif untreated).It is however most commonly used inveterinary medicine, to reversexylazine-inducedsedation.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tolazoline</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q413840 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q413840">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tolcapone(brand nameTasmar) is a drug used to treatParkinson&apos;s disease(PD).  It is a selective, potent and reversible nitrocatechol-type inhibitor of theenzymecatechol-O-methyltransferase(COMT).It has demonstrated significant liver toxicity, which has led to suspension of marketing authorisations in a number of countries.In comparison withentacapone, another nitrocatechol COMT inhibitor, tolcapone has a longer half life (2.9 hours vs. 0.8 hours) and can better penetrate thebloodbrain barrier, acting both in thecentral nervous systemand in the periphery.However, entacapone is less toxic for the liver.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tolcapone</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q414275 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q414275">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tolbutamideis a first-generationpotassium channel blocker,sulfonylureaoral hypoglycemicmedication. This drug may be used in the management oftype 2 diabetesif diet alone is not effective. Tolbutamide stimulates the secretion ofinsulinby thepancreas.It is not routinely used due to a higher incidence of adverse effects compared to newer, second-generation sulfonylureas, such asGlibenclamide. It generally has a short duration of action due to its rapid metabolism, so is safe for use in older people.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tolbutamide</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q415107 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q415107">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vidarabineor9--D-arabinofuranosyladenine (ara-A)is anantiviral drugwhich is active againstherpes simplexandvaricella zoster viruses.In the 1950s twonucleosideswere isolated from the CaribbeanspongeTethya crypta: spongothymidine and spongouridine; which containedD-arabinoserather thanD-ribose. These compounds led to the synthesis of a new generation, sugar modified nucleoside analog vidarabine, and the related compoundcytarabine. In 2004 these were the only marine related compounds in clinical use.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vidarabine</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q415178 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q415178">
@@ -1851,12 +2570,42 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q415203 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q415203">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tripelennamine, sold under the brand namePyribenzaminebyNovartis, is a drug that is used as anantipruriticandfirst-generationantihistamine. It can be used in the treatment ofasthma,hay fever,rhinitisandurticaria, but is now less common as it has been replaced by newer antihistamines. The drug was patented at CIBA, which merged with Geigy into Ciba-Geigy, and eventually becoming Novartis.Where and when it is/was in common use, tripelennamine is used much like other mildly-anticholinergic antihistamines to treat conditions of the upper respiratory tract arising from illnesses and hay fever. It can be used alone or in combination with other agents to have the desired effect. Cough medicines of the general formula tripelennamine + codeine/dihydrocodine/hydrocodone  expectorant  decongestant(s) are popular where available. Among these are the Pyribenzamine cough syrups which contain codeine, with and without decongestants, listed in the 1978Physicians&apos; Desk Reference; the codeine-tripelennamine synergy is well-known and makes such mixtures more useful for their intended purposes.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tripelennamine</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q415238 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q415238">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tolnaftate(INN)is a syntheticthiocarbamateused as ananti-fungalagent that may be soldwithout medical prescriptionin most jurisdictions. It is supplied as a cream, powder, spray, andliquid aerosol. Tolnaftate is used to treat fungal conditions such asjock itch,athlete&apos;s footandringworm.Although the exact mechanism of action is not entirely known, it is believed to inhibitsqualene epoxidase,an important enzyme in the biosynthetic pathway ofergosterol(a key component of the fungal cell membrane) in a similar way toterbinafine.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tolnaftate</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q415264 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q415264">
         <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
         <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Infliximab, a chimeric monoclonal antibody, sold under the brand nameRemicadeamong others, is a medication used to treat a number ofautoimmune diseases. This includesCrohn&apos;s disease,ulcerative colitis,rheumatoid arthritis,ankylosing spondylitis,psoriasis,psoriatic arthritis, andBehcet&apos;s disease.It is given byslow injection into a vein, typically at six- to eight-week intervals.Common side effects include infections,acute infusion reactions, and abdominal pain.Infliximab is achimericmonoclonal antibodybiologic. It seems to work by binding to and neutralizingTNF-, preventing it from interacting with itsreceptorson the cell.TNF- is a chemical messenger (cytokine) and a key part of the autoimmune reaction.</untitled-ontology-3:overview>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Infliximab</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q415366 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q415366">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tirofiban(INN, trade nameAggrastat) is anantiplateletdrug. It belongs to a class of antiplatelet namedglycoprotein IIb/IIIa inhibitors. Tirofiban is a small molecule inhibitor of the protein-protein interaction between fibrinogen and the platelet integrin receptor GP IIb/IIIa and is the first drug candidate whose origins can be traced to apharmacophore-basedvirtual screeninglead.Tirofiban is administered via intravenous infusion and is indicated to reduce the rate of thrombotic cardiovascular events (combined endpoint of death, myocardial infarction, or refractory ischemia/repeat cardiac procedure) in patients with non-ST elevation acute coronary syndrome (NSTE-ACS).</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tirofiban</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1881,12 +2630,32 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q416507 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q416507">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thiotepa(INN,chemical name:N,N,N-triethylenethiophosphoramide) is analkylating agentused to treatcancer.Thiotepa is anorganophosphorus compoundwith the formula SP(NC2H4)3.It is ananalogofN,N,N-triethylenephosphoramide(TEPA), which contains tetrahedral phosphorus and is structurally akin tophosphate. It is manufactured by heatingaziridinewiththiophosphoryl chloride.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thiotepa</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q417555 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q417555">
         <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
         <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teniposide(trade nameVumon) is achemotherapeuticmedicationused in the treatment of childhoodacute lymphocytic leukemia(ALL),Hodgkin&apos;s lymphoma, certainbrain tumours, and other types of cancer.It is in a class of drugs known aspodophyllotoxinderivatives and slows the growth ofcancercells in the body.Teniposide is used for the treatment of a number of cancer types in children. In the US, it is approved for the second-line therapy of acute lymphocytic leukemia (ALL) in combination with otherantineoplasticdrugs.In Europe, it is also approved for the treatment of Hodgkin&apos;s lymphoma, generalizedmalignant lymphoma,reticulocytesarcoma, acuteleukaemia, primary brain tumours (glioblastoma,ependymoma,astrocytoma),bladder cancer,neuroblastomaand other solid tumours in children.</untitled-ontology-3:overview>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Teniposide</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q417654 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q417654">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Triprolidineis anover-the-counterantihistaminewithanticholinergicproperties.It is used to combat the symptoms associated withallergiesand is sometimes combined with othercoldmedications designed to provide general relief forflu-like symptoms.As with many antihistamines, the most commonside effectis drowsiness.It was patented in 1948 and came into medical use in 1953.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Triprolidine</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1907,6 +2676,116 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
         <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
         <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Atovaquone, sold under the brand nameMepron, is a quinone antimicrobial medication for the prevention and treatment ofPneumocystis jiroveciipneumonia(PCP).Atovaquone is a chemical compound that belongs to the class ofnaphthoquinones. Atovaquone is a hydroxy-1,4-naphthoquinone, an analog ofubiquinone, with antipneumocystic activity.</untitled-ontology-3:overview>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Atovaquone</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q418386 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q418386">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Triethylenetetramine(TETAandtrien), also calledtrientine(INN), is anorganic compoundwith theformula2. This oily liquid is colorless but, like manyamines, assumes a yellowish color due to impurities resulting from air-oxidation. It is soluble in polar solvents.  The branchedisomertris(2-aminoethyl)amineandpiperazinederivatives may also be present in commercial samples of TETA.The reactivity and uses of TETA are similar to those for the related polyaminesethylenediamineanddiethylenetriamine.  It is primarily used as a crosslinker (&quot;hardener&quot;) inepoxycuring.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trientine</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q418594 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q418594">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valaciclovir, also spelledvalacyclovir, is anantiviral medicationused to treat outbreaks ofherpes simplexorherpes zoster(shingles).It is also used to preventcytomegalovirusfollowing akidney transplantin high risk cases.It is taken by mouth.Common side effects includeheadacheandvomiting.Severe side effects may includekidney problems.Use inpregnancyappears to be safe.It is aprodrug, which works after being converted toaciclovirin a person&apos;s body.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valacyclovir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q418666 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q418666">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tranexamic acid(TXA) is a medication used to treat or prevent excessiveblood lossfrommajor trauma,postpartum bleeding, surgery,tooth removal,nosebleeds, andheavy menstruation.It is also used forhereditary angioedema.It is taken either by mouth orinjection into a vein.Side effects are rare.Some include changes incolor vision,blood clots, andallergic reactions.Greater caution is recommended in people with kidney disease.Tranexamic acid appears to be safe for use duringpregnancyandbreastfeeding.Tranexamic acid is in theantifibrinolyticfamily of medications.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tranexamic acid</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q419921 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q419921">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Potassium citrate(also known as tripotassium citrate) is apotassiumsaltofcitric acidwith the molecular formula K3C6H5O7.  It is a white,hygroscopiccrystalline powder. It is odorless with asalinetaste. It contains 38.28% potassium by mass.  In the monohydrate form it is highly hygroscopic and deliquescent.As afood additive, potassium citrate is used to regulate acidity and is known asE numberE332. Medicinally, it may be used to controlkidney stonesderived from eitheruric acidorcystine.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tripotassium citrate</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q419948 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q419948">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Torasemide, also known astorsemide, is a diuretic medication used to treatfluid overloaddue toheart failure,kidney disease, andliver diseaseandhigh blood pressure.It is a less preferred treatment for high blood pressure.It is taken by mouth or byinjection into a vein.Common side effects include headache, increased urination, diarrhea, cough, and dizziness.Other side effects may includehearing lossandlow blood potassium.Torasemide is asulfonamideandloop diuretic.Use is not recommended inpregnancyorbreastfeeding.It works by decreasing the reabsorption ofsodiumby thekidneys.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Torsemide</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q419953 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q419953">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Topotecan(trade nameHycamtin) is achemotherapeutic agentthat is atopoisomerase inhibitor.  It is a synthetic, water-solubleanalogof the natural chemical compoundcamptothecin. It is used in the form of itshydrochloridesaltto treatovarian cancer,lung cancerand other cancer types.AfterGlaxoSmithKlinereceived finalFDAapproval for Hycamtin Capsules on October 15, 2007, topotecan became the first topoisomerase I inhibitor for oral use.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Topotecan</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q420288 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q420288">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vinpocetine(ethyl apovincaminate) is a syntheticderivativeof thevinca alkaloidvincamine.  Vincamine is extracted from either the seeds ofVoacanga africanaor the leaves ofVinca minor(lesser periwinkle).Vinpocetine has been clinically indicated in Europe for treatment of cerebrovascular disorders such as stroke and dementia for over three decades.Use during pregnancy may harm the baby or result inmiscarriage.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vinpocetine</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q420305 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q420305">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ustekinumab,sold under the brand nameStelara, is a humanmonoclonal antibodyused to treatpsoriasis.It is also approved to treatCrohn&apos;s diseasein the United States, Israel and Australia, andulcerative colitisin the US, and in the European Union (EU) among people who have not responded to more traditional treatments.It was found not effective formultiple sclerosis.It is manufactured in the Netherlands. It is a subcutaneous humaninterleukin 12andinterleukin 23antagonist. These are naturally occurring proteins that regulate the immune system and immune-mediated inflammatory disorders.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ustekinumab</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q420532 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q420532">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vinorelbine(NVB), sold under the brand nameNavelbineamong others, is achemotherapy medicationused to treat a number of types of cancer.This includesbreast cancerandnon-small cell lung cancer.It is given byinjection into a veinor by mouth.Common side effects includebone marrow suppression, pain at the site of injection, vomiting, feeling tired, numbness, and diarrhea.Other serious side effects includeshortness of breath.Use duringpregnancymay harm the baby.Vinorelbine is in thevinca alkaloidfamily of medications.It is believed to work by disrupting the normal function ofmicrotubulesand thereby stoppingcell division.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vinorelbine</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q420542 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q420542">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ticagrelor(trade nameBrilinta,Brilique, and formerlyPossia) is a pharmaceutical drug used for the prevention ofstroke,heart attackand other events in people withacute coronary syndrome, meaning problems with blood supply in thecoronary arteries. It acts as aplatelet aggregation inhibitorby antagonising theP2Y12receptor.The drug is produced byAstraZeneca.It was approved for use in theEuropean Unionby theEuropean Medicines Agencyon 3 December 2010and by the USFood and Drug Administrationon 20 July 2011.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ticagrelor</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q420595 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q420595">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tigecycline, sold under the brand nameTygacil, is antetracycline antibioticmedication for a number ofbacterial infections.It is aglycylcyclineadministered intravenously. It was developed in response to the growing rate ofantibiotic resistantbacteria such asStaphylococcus aureus,Acinetobacter baumannii, andE. coli.As a tetracycline derivative antibiotic, its structural modifications has expanded its therapeutic activity to include Gram-positive and Gram-negative organisms, including those of multi-drug resistance.It was given a U.S.Food and Drug Administration(FDA) fast-track approval and was approved on 17 June 2005.It was approved for medical use in the European Union in April 2006.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tigecycline</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1951,12 +2830,32 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q421663 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q421663">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vigabatrin, brand nameSabril, is a medication used to treatepilepsy. It became available as ageneric medicationin 2019.It works by inhibiting thebreakdownof-aminobutyric acid(GABA). It is also known as-vinyl-GABA, and is astructural analogueof GABA, but does not bind toGABA receptors.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vigabatrin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q422442 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q422442">
         <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
         <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Doxycyclineis abroad-spectrumtetracycline-classantibioticused in the treatment of infections caused bybacteriaand certainparasites.It is used to treatbacterial pneumonia,acne,chlamydia infections, earlyLyme disease,cholera,typhus, andsyphilis.It is also used to preventmalariaand in combination withquinine, to treat malaria.Doxycycline may be takenby mouthor byinjection into a vein.Common side effects includediarrhea, nausea, vomiting, and an increased risk ofsunburn.Use after the first trimester of pregnancy or in young childrenmayresult in permanent discoloration of the teeth.Its use duringbreastfeedingis probably safe.Doxycycline is abroad-spectrum antibiotic, of thetetracycline class.Like other agents of this class, it either slows or kills bacteria by inhibiting protein production.It kills malaria by targeting aplastid organelle, theapicoplast.</untitled-ontology-3:overview>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Doxycycline</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q422665 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q422665">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trimethoprim(TMP) is anantibioticused mainly in the treatment ofbladder infections.Other uses include formiddle ear infectionsandtravelers&apos; diarrhea.Withsulfamethoxazoleordapsoneit may be used forPneumocystispneumoniain people withHIV/AIDS.It is taken by mouth.Common side effects include nausea, changes in taste, and rash.Rarely it may result in blood problems such as not enoughplateletsorwhite blood cells.May cause sun sensitivity.There is evidence of potential harm duringpregnancyin some animals but not humans.It works by blockingfolatemetabolism viadihydrofolate reductasein some bacteria which results in their death.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trimethoprim</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1971,12 +2870,101 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q422689 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q422689">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lactuloseis a non-absorbablesugarused in the treatment ofconstipationandhepatic encephalopathy.It is used by mouth for constipation and either by mouth or in the rectum forhepatic encephalopathy.It generally begins working after 812 hours, but may take up to 2 days to improve constipation.Commonside effectsinclude abdominalbloatingand cramps.A potential exists forelectrolyte problemsas a result of thediarrheait produces.No evidence of harm to the baby has been found when used duringpregnancy.It is generally regarded as safe during breastfeeding.It is classified as anosmotic laxative.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Β-lactulose</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q423111 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q423111">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vemurafenib(INN, marketed asZelboraf) is an inhibitor of theB-Rafenzymedeveloped byPlexxikon(now part of Daiichi-Sankyo) andGenentechfor the treatment of late-stagemelanoma.The name &quot;vemurafenib&quot; comes fromV600Emutated BRAFinhibition.Vemurafenib receivedFDAapproval for the treatment of late-stage melanoma on August 17, 2011,making it the first drug designed usingfragment-based lead discoveryto gain regulatory approval.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vemurafenib</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q423384 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q423384">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valganciclovir, sold under the brand nameValcyteamong others, is anantiviral medicationused to treatcytomegalovirus (CMV) infectionin those withHIV/AIDSor followingorgan transplant.It is often used long term as it only suppresses rather than cures the infection.Valganciclovir is taken by mouth.Common side effects includeabdominal pain, headaches, trouble sleeping, nausea, fever, andlow blood cell counts.Other side effects may includeinfertilityandkidney problems.When used duringpregnancy, it causes birth defects in some animals.Valganciclovir is theL-valylesterofganciclovirand works when broken down into ganciclovir by theintestineandliver.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valganciclovir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q423538 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q423538">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tizanidine, sold under the brand nameZanaflexamong others, is a medication that is used to treatmuscle spasticitydue tospinal cord injuryormultiple sclerosis.Effectiveness appears similar tobaclofenordiazepam.It is taken by mouth.Common side effects include dry mouth, sleepiness, weakness, and dizziness.Serious side effects may includelow blood pressure,liver problems,psychosis, andQT prolongation.It is unclear if use inpregnancyandbreastfeedingis safe.It is an2-adrenergic agonistand how it works is not entirely clear.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tizanidine</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q423866 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q423866">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Triptan</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q424027 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q424027">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vancomycinis anantibioticused to treat a number ofbacterial infections.It is recommendedintravenouslyas a treatment for complicatedskin infections,bloodstream infections,endocarditis, bone and joint infections, andmeningitiscaused bymethicillin-resistantStaphylococcus aureus.Blood levels may be measured to determine the correct dose.Vancomycin is also recommended by mouth as a treatment for severeClostridium difficilecolitis.When taken by mouth it is very poorly absorbed.Common side effects include pain in the area of injection andallergic reactions.Occasionally,hearing loss,low blood pressure, orbone marrow suppressionoccur.Safety in pregnancy is not clear, but no evidence of harm has been found,and it is likely safe for use whenbreastfeeding.It is a type ofglycopeptide antibioticand works by blocking the construction of acell wall.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vancomycin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q424161 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q424161">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vardenafilis aPDE5inhibitorused for treatingerectile dysfunctionthat is sold under the trade namesLevitra,Staxyn, andVivanza.Vardenafil&apos;s indications and contraindications are the same as with other PDE5inhibitors; it is closely related in function tosildenafilcitrate (Viagra) andtadalafil(Cialis). The difference between the vardenafil molecule and sildenafil citrate is anitrogenatom&apos;s position and the change of sildenafil&apos;spiperazineringmethyl groupto anethyl group. Tadalafil is structurally different from both sildenafil and vardenafil. Vardenafil&apos;s relatively short effective time is comparable to but somewhat longer than sildenafil&apos;s.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vardenafil</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q424193 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q424193">
         <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
         <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Levofloxacin, sold under the brand nameLevaquinamong others, is anantibioticmedication.It is used to treat a number ofbacterial infectionsincludingacute bacterial sinusitis,pneumonia,H. pylori(in combination with other medications),urinary tract infections,chronic prostatitis, and some types ofgastroenteritis.Along with other antibiotics it may be used to treattuberculosis,meningitis, orpelvic inflammatory disease.Use is generally recommended only when other options are not available.It is available by mouth,intravenously,and ineye dropform.Common side effects includenausea,diarrhea, and trouble sleeping.Serious side effects may includetendon rupture,tendon inflammation,seizures,psychosis, and potentially permanentperipheral nerve damage.Tendon damage may appear months after treatment is completed.People may alsosunburn more easily.In people withmyasthenia gravis, muscle weakness and breathing problems may worsen.While use during pregnancy is not recommended, risk appears to be low.The use of other medications in this class appear to be safe whilebreastfeeding; however, the safety of levofloxacin is unclear.Levofloxacin is abroad-spectrum antibioticof thefluoroquinolonedrug class.It usually results indeath of the bacteria.It is theleft-handed isomerof the medicationofloxacin.</untitled-ontology-3:overview>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Levofloxacin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q424312 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q424312">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tolterodine, sold under the brand namesDetrolamong others, is medication used to treatfrequent urination,urinary incontinence, orurinary urgency.Effects are seen within an hour.It is taken by mouth.Common side effects include headache, dry mouth, constipation, and dizziness.Serious side effects may includeangioedema,urinary retention, andQT prolongation.Use inpregnancyandbreastfeedingare of unclear safety.It works byblocking muscarinic receptorsin thebladderthus decreasing bladder contractions.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tolterodine</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q424316 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q424316">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tiotropium bromide, sold under the brand nameSpirivaamong others, is a long-actingbronchodilatorused in the management ofchronic obstructive pulmonary disease(COPD) andasthma.Specifically it is used to try to prevent periods of worsening rather than for those periods themselves.It is used by inhalation through the mouth.Onset typically begins within half an hour and lasts for 24 hours.Common side effects include a dry mouth, runny nose, upper respiratory tract infection, shortness of breath and headache.Severe side effects may includeangioedema, worseningbronchospasm, andQT prolongation.Tentative evidence has not found harm duringpregnancy, however, such use has not been well studied.It is ananticholinergicmedication and works by blockingacetylcholineaction onsmooth muscle.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tiotropium</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -1997,6 +2985,26 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
         <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
         <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tiabendazole(INN,BAN), also known asthiabendazole(AAN,USAN) orTBZand the trade names Mintezol, Tresaderm, and Arbotect, is a preservative,an antifungal agent, and an antiparasitic agent.Tiabendazole is used primarily to controlmold,blight, and other fungal diseases in fruits (e.g.oranges) and vegetables; it is also used as aprophylactictreatment forDutch elm disease.</untitled-ontology-3:overview>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thiabendazole</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q425154 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q425154">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tocilizumab(INN, trade nameActemra), also known asatlizumab,  is animmunosuppressive drug, mainly for the treatment ofrheumatoid arthritis(RA) andsystemic juvenile idiopathic arthritis, a severe form of arthritis in children. It is ahumanized monoclonal antibodyagainst theinterleukin-6 receptor(IL-6R).Interleukin 6(IL-6) is acytokinethat plays an important role in immune response and is implicated in the pathogenesis of many diseases, such asautoimmune diseases,multiple myelomaandprostate cancer. It was developed byHoffmannLa RocheandChugai.The drug is administered by monthlyintravenousinfusions. An infusion takes about an hour.An alternative formulation forsubcutaneous injectionwas approved in October 2013.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tocilizumab</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q426132 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q426132">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tolvaptan(trade namesSamsca,Jinarc, and others) is anaquareticdrug that functions as a selective,competitivevasopressin receptor 2 (V2) antagonistused to treathyponatremia(low bloodsodiumlevels) associated withcongestive heart failure,cirrhosis, and thesyndrome of inappropriate antidiuretic hormone(SIADH). Tolvaptan was approved by the U.S.Food and Drug Administration(FDA) on May 19, 2009, and is sold byOtsuka Pharmaceutical Co.under the trade name Samsca.Tolvaptan, as Jynarque, was granted approval for medical use in the United States in April 2018.The U.S.Food and Drug Administration(FDA) granted tolvaptan afast trackdesignation for clinical trials investigating its use for the treatment ofpolycystic kidney disease.The FDA granted Jynarque anorphan drugdesignation in April 2012, for the treatment of autosomal dominant polycystic kidney disease.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tolvaptan</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -2062,6 +3070,36 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q48318 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q48318">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50g/L ethanol~4 g/LacetonitrileUrea, also known ascarbamide, is anorganic compoundwithchemical formulaCO(NH2)2. Thisamidehas twoNH2groups joined by acarbonyl(C=O)functional group.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Urea</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q4859684 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q4859684">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unoprostone(INN) is aprostaglandin analogue. Itsisopropylester,unoprostone isopropyl, was marketed under the trade nameResculafor the management ofopen-angle glaucomaandocular hypertension.It was approved by theFood and Drug Administrationin 2000.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unoprostone</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q510494 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q510494">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Triflupromazine(Vesprin) is anantipsychoticmedication of thephenothiazineclass. Among different effects of triflupromazine indication for use of this drug is severeemesisand severeHiccups.Due to its potential side effects (triflupromazine has higher risk for side effects than many other antipsychotics) it is not gold standard in antiemetic therapy.Serious side effects of triflupromazine can beakathisiaandtardive dyskinesiaas well as the rare, but potentially fatal,neuroleptic malignant syndrome.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Triflupromazine</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q5348629 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q5348629">
@@ -2082,6 +3120,16 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
         <untitled-ontology-3:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">disease caused by Nipah virus</untitled-ontology-3:description>
         <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ANipah virus infectionis aviral infectioncaused by theNipah virus.Symptoms from infection vary from none tofever, cough, headache,shortness of breath, and confusion.This may worsen into acomaover a day or two,and 50% to 75% of those infected die. Complications can includeinflammation of the brainandseizuresfollowing recovery.The Nipah virus (NiV) is a type ofRNA virusin the genusHenipavirus.The virus normally circulates among specific types offruit bats.It can both spread between people andfrom other animals to people.Spread typically requires direct contact with an infected source.Diagnosis is based on symptoms and confirmed by laboratory testing.</untitled-ontology-3:overview>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nipah Virus Infection</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q544393 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q544393">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trovafloxacin(sold asTrovanbyPfizerandTurvelbyLaboratorios Almirall) is a broad spectrumantibioticthat inhibits the uncoiling ofsupercoiledDNAin variousbacteriaby blocking the activity ofDNA gyraseandtopoisomeraseIV.It was withdrawn from the market due to the risk ofhepatotoxicity. It had betterGram-positivebacterial coverage and lessGram-negativecoverage than the previousfluoroquinolones.Trovafloxacin use is significantly restricted due to its high potential for inducing serious and sometimes fatal liver damage.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trovafloxacin</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -2119,6 +3167,16 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
         <untitled-ontology-3:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">colitis characterized by an overgrowth of Clostridium difficile bacteria</untitled-ontology-3:description>
         <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clostridioides difficileinfection(CDIorC-diff), also known asClostridium difficileinfection, is a symptomaticinfectiondue to thespore-forming bacteriumClostridioides difficile.Symptoms include waterydiarrhea, fever, nausea, andabdominal pain.It makes up about 20% of cases ofantibiotic-associated diarrhea.Complications may includepseudomembranous colitis,toxic megacolon,perforation of the colon, andsepsis.Clostridioides difficileinfection is spread by bacterial spores found withinfeces.Surfaces may become contaminated with the spores with further spread occurring via the hands of healthcare workers.Risk factors for infection includeantibioticorproton pump inhibitoruse, hospitalization, other health problems, and older age.Diagnosis is bystool cultureor testing for the bacteria&apos;sDNAortoxins.If a person tests positive but has no symptoms, the condition is known asC. difficilecolonizationrather than an infection.</untitled-ontology-3:overview>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clostridium difficile colitis</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q58375 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q58375">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thioridazine(MellarilorMelleril) is a first generationantipsychoticdrugbelonging to thephenothiazinedrug group and was previously widely used in the treatment ofschizophreniaandpsychosis. The branded product was withdrawn worldwide in 2005 because it caused severe cardiac arrhythmias. However, generic versions are still available in the US.Thioridazine was voluntarily discontinued by its manufacturer,Novartis, worldwide because it caused severe cardiac arrhythmias.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thioridazine</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -2255,12 +3313,122 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q757058 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q757058">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tocainide(Tonocard) is a class Ibantiarrhythmic agent. It is no longer sold in the United States.Tocainide is alidocaineanalog, that does not have significant 1st pass metabolism.  It is found in twoenantiomers.  The R isomer is 4x as potent as the S.  Oral bioavailability is 0.9-1.0. In the blood tocainide is 10-20% protein bound. The Volume of distribution is 2.5-3.5 L/kg.  30-50% is excreted unchanged in the urine.  The more active R-isomer is cleared faster in anephric patients or those with severe renal dysfunction.  The main metabolite is the glucuronidated tocainide carbamic acid.  The glucuronosyl transferase is apparently induced by rifampin.  Weak inhibition of Cyp1A2 leads to a mild theophylline interaction. (Not verbatim)</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tocainide</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q7784698 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q7784698">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thiostreptonis a natural cyclicoligopeptideantibioticof thethiopeptideclass, derived from several strains ofstreptomycetes, such asStreptomyces azureusandStreptomyces laurentii. Thiostrepton is anatural productof theribosomally synthesized and post-translationally modified peptide(RiPP) class.Thiostrepton was discovered by Donovicket al.who described its antibacterial properties in 1955.Dorothy Crowfoot Hodgkinsolved the structure of thiostrepton in 1970.Early in 1978, Bycroft and Gowlandproposed the biosynthesis of thiostrepton, which was still unclear until 2009. Several studies of thiopeptide biosynthesishave been contemporarily published in 2009 and two of them (Liaoet al.and Kellyet al.) included the similar biosynthesis of thiostrepton: it&apos;s ribosomally synthesized from thiostrepton biosynthetic genes (tsr genes) and posttranslational modification is needed.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thiostrepton</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q7802069 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q7802069">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tilbroquinolis anantiprotozoal agenteffective againstamoebiasis.It has also been used againstVibrio cholerae.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tilbroquinol</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q7809151 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q7809151">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tiratricol(also known asTRIACortriiodothyroacetic acid) is athyroid hormoneanalogue. Triiodothyroacetic acid is also a physiologicthyroid hormonethat is present in the normal organism in low concentrations.It is indicated in the management ofthyroid hormone resistance syndromeand is used, in combination withlevothyroxine, to suppressthyroid-stimulating hormoneproduction in patients withthyroid cancer.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tiratricol</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q7814101 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q7814101">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tolazamideis anoralblood glucoseloweringdrugused for people withType 2 diabetes. It is part of thesulfonylureafamily (ATC A10BB).para-Toluenesulfonamideis converted to itscarbamatewithethyl chloroformatein the presence of a base. Heating that intermediate with 1-amino-azepaneleads to the displacement of the ethoxy group and the formation of tolazemide:</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tolazamide</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q7833138 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q7833138">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trametinib(trade nameMekinist) is a cancer drug.  It is aMEK inhibitordrug with anti-cancer activity.It inhibitsMEK1andMEK2.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trametinib</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q7842225 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q7842225">
         <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
         <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trimetrexateis aquinazolinederivative. It is adihydrofolate reductase inhibitor.It has been used withleucovorinin treatingpneumocystis pneumonia.</untitled-ontology-3:overview>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trimetrexate</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q7844989 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q7844989">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Troglitazoneis anantidiabeticandanti-inflammatorydrug, and a member of thedrugclass of thethiazolidinediones. It was prescribed for people withdiabetes mellitus type 2.It was patented in 1983 and approved for medical use in 1997.It was subsequently withdrawn.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Troglitazone</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q7912593 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q7912593">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valrubicin(N-trifluoroacetyladriamycin-14-valerate, trade nameValstar) is achemotherapydrugused to treatbladder cancer. Valrubicin is a semisynthetic analog of theanthracyclinedoxorubicin, and is administered by infusion directly into thebladder.It was originally launched as Valstar in the U.S. in 1999 forintravesicaltherapy ofBacille Calmette-Guerin(BCG)-refractorycarcinoma in situof theurinary bladderin patients in whomcystectomywould be associated with unacceptablemorbidityormortality; however, it was voluntarily withdrawn in 2002 due to manufacturing issues.Valstar was relaunched on September 3, 2009.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Valrubicin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q7914515 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q7914515">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vandetanib(INN, trade nameCaprelsa)is ananti-cancer drugthat is used for the treatment of certain tumours of thethyroid gland. It acts as akinase inhibitorof a number of cell receptors, mainly thevascular endothelial growth factor receptor(VEGFR), theepidermal growth factor receptor(EGFR), and theRET-tyrosine kinase.The drug was developed byAstraZenecaand later onSanofi.Vandetanib is used to treatmedullary thyroid cancerin adults who are ineligible for surgery.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vandetanib</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q7918002 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q7918002">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vedolizumab, sold under the brand nameEntyvio, is amonoclonal antibodymedication developed byMillennium Pharmaceuticals, Inc (a subsidiary ofTakeda Pharmaceuticals) for the treatment ofulcerative colitisandCrohn&apos;s disease.It binds tointegrin47(LPAM-1, lymphocytePeyer&apos;s patchadhesion molecule 1, adimerofIntegrin alpha-4andIntegrin beta-7).Blocking the 47integrin results in gut-selectiveanti-inflammatoryactivity.It is marketed under the trade name Entyvio.Vedolizumab has been investigated in one main study in adult patients.Patients with moderate to severe active disease in whom conventional therapy or TNF-alpha antagonists were ineffective or could not be tolerated received either vedolizumab orplacebo. The main measure of effectiveness was the proportion of patients whose symptoms improved after six weeks of treatment. Vedolizumab was shown to be more effective than placebo: 47% (106 out of 225) of patients who received vedolizumab showed an improvement in symptoms, compared with 26% (38 out of 149) of patients who received placebo. The study also showed that vedolizumab maintained the effect up to 52 weeks more effectively than placebo.Moreover, vedolizumab treatment was shown to achieve higher percentage of clinical remissions (31.3% vs. 22.5%) in patients with ulcerative colitis in comparison toadalimumabtreatment.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vedolizumab</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q7939403 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q7939403">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Voglibose(INNandUSAN, trade nameVoglib, marketed by Mascot Health Series) is analpha-glucosidase inhibitorused for lowering post-prandial blood glucose levels in people withdiabetes mellitus. Voglibose delays the absorption of glucose thereby reducing the risk of macrovascular complications. Voglibose is a research product ofTakeda Pharmaceutical Company, Japan&apos;s largest pharmaceutical company. Voglibose was first launched in 1994, under the trade name BASEN, to improve postprandial hyperglycemia indiabetes mellitus.Postprandialhyperglycemia(PPHG) is primarily due to first phase insulin secretion. Alpha glucosidase inhibitors delay glucose absorption at the intestine level and thereby prevent sudden surge of glucose after a meal.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Voglibose</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -2320,12 +3488,32 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q827916 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q827916">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trimethadioneis anoxazolidinedioneanticonvulsant. It is most commonly used to treatepilepticconditions that are resistant to other treatments.If administered during pregnancy,fetal trimethadione syndromemay result causing facial dysmorphism (short upturned nose, slanted eyebrows), cardiac defects,intrauterine growth restriction(IUGR), and mental retardation.  The fetalloss ratewhile using trimethadione has been reported to be as high as 87%.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trimethadione</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q83042 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q83042">
         <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Specialty"/>
         <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neurology(fromGreek: (neuron), &quot;string, nerve&quot; and the suffix-logia, &quot;study of&quot;) is a branch ofmedicinedealing withdisorders of the nervous system. Neurology deals with the diagnosis and treatment of all categories of conditions and disease involving thecentralandperipheral nervous systems(and their subdivisions, theautonomicandsomatic nervous systems), including their coverings, blood vessels, and all effector tissue, such as muscle.Neurological practice relies heavily on the field ofneuroscience, the scientific study of thenervous system.Aneurologistis aphysicianspecializing in neurology and trained to investigate, or diagnose and treatneurological disorders.Neurologists may also be involved inclinical research,clinical trials, andbasicortranslational research. While neurology is a nonsurgical specialty, its correspondingsurgicalspecialty isneurosurgery.</untitled-ontology-3:overview>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neurology</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q83187 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q83187">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thiamine, also known asthiaminorvitamin B1, is avitaminfound in food, and manufactured as adietary supplementandmedication.Food sources of thiamine includewhole grains,legumes, and some meats and fish.Grain processingremoves much of the thiamine content, so in many countriescerealsandfloursareenrichedwith thiamine.Supplements and medications are available to treat and preventthiamine deficiencyand disorders that result from it, includingberiberiandWernicke encephalopathy.Other uses include the treatment ofmaple syrup urine diseaseandLeigh syndrome.They are typically takenby mouth, but may also be given byintravenousorintramuscular injection.Thiamine supplements are generally well tolerated.Allergic reactions, includinganaphylaxis, may occur when repeated doses are given by injection.Thiamine is in theB complexfamily.It is anessential micronutrient, which cannot be made in the body.Thiamine is required formetabolismincluding that ofglucose,amino acids, andlipids.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Β-amin</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -2363,6 +3551,26 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
     
 
 
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q854263 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q854263">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trioxsalen(trimethylpsoralen,trioxysalen(INN) orTrisoralen) is afuranocoumarinand apsoralenderivative.  It is obtained from several plants, mainlyPsoraleacorylifolia.  Like other psoralens it causesphotosensitizationof the skin.  It is administered eithertopicallyororallyin conjunction withUV-A(the least damaging form ofultravioletlight) forphototherapytreatment ofvitiligoand handeczema.Afterphotoactivationit createsinterstrand cross-linksin DNA, which can causeprogrammed cell deathunless repaired by cellular mechanisms.  In research it can be conjugated to dyes forconfocal microscopyand used to visualize sites of DNA damage.The compound is also being explored for development ofantisenseoligonucleotidesthat can be cross-linked specifically to a mutantmRNAsequence without affecting normal transcripts differing at even a single base pair.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trioxsalen</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q898407 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q898407">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Venlafaxine, sold under the brand nameEffexoramong others, is anantidepressantmedication of theserotonin-norepinephrine reuptake inhibitor(SNRI) class.It is used to treatmajor depressive disorder(MDD),generalized anxiety disorder(GAD),panic disorder, andsocial phobia.It may also be used forchronic pain.It is taken by mouth.Common side effects include loss of appetite, constipation,dry mouth, dizziness, sweating, and sexual problems.Severe side effects include an increased risk ofsuicide,mania, andserotonin syndrome.Antidepressant withdrawal syndromemay occur if stopped.There are concerns that use during the later part ofpregnancycan harm the baby.How it works is not entirely clear but it is believed to involve alterations inneurotransmittersin the brain.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Venlafaxine</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q898623 -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q898623">
@@ -2379,6 +3587,46 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
         <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Specialty"/>
         <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neonatologyis a subspecialty ofpediatricsthat consists of the medical care of newborn infants, especially the ill or premature newborn. It is ahospital-based specialty, and is usually practised inneonatal intensive care units(NICUs). The principal patients ofneonatologistsarenewborninfants who are ill or require special medical care due toprematurity,low birth weight,intrauterine growth restriction,congenital malformations(birth defects),sepsis,pulmonary hypoplasiaorbirth asphyxia.While high infant mortality rates were recognized by the British medical community at least as early as the 1860s,modern neonatal intensive care is a relatively recent advance.In 1898 Dr.Joseph DeLeeestablished the first premature infant incubator station inChicago,Illinois. The first American textbook onprematuritywas published in 1922. In 1931 Dr A Robert Bauer invented the first incubator to combine heat, andoxygen, as well as humidity while at Henry Ford Hospital.In 1952 Dr.Virginia Apgardescribed theApgar scorescoring system as a means of evaluating a newborn&apos;s condition. It was not until 1965 that the first American newborn intensive care unit (NICU) was opened inNew Haven,Connecticut.In 1975 the American Board of Pediatrics established sub-board certification for neonatology.</untitled-ontology-3:overview>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neonatology</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q903341 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q903341">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Atriazolerefers to any of theheterocyclic compoundswithmolecular formulaC2H3N3, having a five-membered ring of two carbon atoms and three nitrogen atoms. There are two sets ofisomersthat differ in the relative positions of the three nitrogen atoms. Each of these has twotautomersthat differ by which nitrogen has a hydrogen bonded to it:1H-1,2,3-Triazole</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Triazoles</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q905901 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q905901">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vorinostat(rINN)also known assuberanilohydroxamic acid(suberoyl+anilide+hydroxamic acidabbreviated asSAHA) is a member of a larger class of compounds that inhibithistone deacetylases(HDAC).Histone deacetylase inhibitors(HDI) have a broad spectrum ofepigeneticactivities.Vorinostat is marketed under the nameZolinza(/zolnz/zoh-LIN-z) byMerckfor the treatment of cutaneous manifestations in patients withcutaneous T cell lymphoma(CTCL) when the disease persists, gets worse, or comes back during or after two systemic therapies.The compound was developed by Columbia University chemistRonald Breslowand Memorial Sloan-Kettering researcher Paul Marks.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vorinostat</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q906220 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q906220">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thiobutabarbital(Inactin,Brevinarcon) is a short-actingbarbituratederivative invented in the 1950s. It hassedative,anticonvulsantandhypnoticeffects, and is still used inveterinarymedicine for induction insurgicalanaesthesia.Thiobutabarbital contains a stereocenter and consists of two enantiomers. This is aracemate, ie a 1: 1 mixture of (R) - and the (S) - form:</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thiobutabarbital</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q907219 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q907219">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tiagabine(trade nameGabitril) is ananticonvulsantmedicationproduced byCephalonthat is used in the treatment ofepilepsy. The drug is also usedoff-labelin the treatment ofanxiety disordersandpanic disorder.Tiagabine is approved by U.S.Food and Drug Administration(FDA) as an adjunctive treatment for partialseizuresin individuals of age 12 and up. It may also be prescribed off-label by physicians to treat anxiety disorders and panic disorder as well asneuropathic pain(includingfibromyalgia). For anxiety and neuropathic pain, tiagabine is used primarily to augment other treatments. Tiagabine may be used alongsideselective serotonin reuptake inhibitors,serotonin-norepinephrine reuptake inhibitors, orbenzodiazepinesfor anxiety, orantidepressants,gabapentin, other anticonvulsants, oropioidsfor neuropathic pain.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tiagabine</rdfs:label>
     </owl:NamedIndividual>
     
 
@@ -2411,6 +3659,16 @@ The presence of a rash may aid diagnosis; associated signs and symptoms are diag
         <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Cause"/>
         <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercuryis achemical elementwith thesymbolHgandatomic number80. It is commonly known asquicksilverand was formerly namedhydrargyrum(/hadrrdrm/hy-DRAR-jr-m).Aheavy, silveryd-blockelement, mercury is the only metallic element that is liquid atstandard conditions for temperature and pressure; the only other element that is liquid under these conditions is thehalogenbromine, though metals such ascaesium,gallium, andrubidiummelt just aboveroom temperature.Mercury occurs in deposits throughout the world mostly ascinnabar(mercuric sulfide). The red pigmentvermilionis obtained by grinding natural cinnabar or synthetic mercuric sulfide.</untitled-ontology-3:overview>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mercury</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q928378 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/untitled-ontology-8#Q928378">
+        <rdf:type rdf:resource="http://www.semanticweb.org/franciscofilipe/ontologies/2020/11/untitled-ontology-3#Drug"/>
+        <untitled-ontology-3:overview rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zafirlukastis an orally administeredleukotriene receptor antagonist(LTRA) used for the chronic treatment ofasthma. While zafirlukast is generally well tolerated, headache and stomach upset often occur. Some rare side effects can occur, which can be life-threatening, such asliver failure.Churg-Strausssyndrome has been associated with zafirlukast, but the relationship isn&apos;t thought to be causative in nature. Overdoses of zafirlukast tend to be self-limiting.Zafirlukast, like other LTRAs, works by inhibiting the immune system. Through its action on inflammatory cells in the lungs, zafirlukast reduces the production of inflammatory mediators that are implicated in the pathogenesis ofasthma. Zafirlukast is extensively hepatically metabolized by an enzyme calledCYP2C9. Zafirlukast inhibits the action ofCYP3A4, leading to drug-drug interactions with other drugs that are metabolized by CYP3A4. Genetic differences inLTC4 synthaseandCYP2C9may predict how a person reacts to zafirlukast treatment.</untitled-ontology-3:overview>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zafirlukast</rdfs:label>
     </owl:NamedIndividual>
     
 
