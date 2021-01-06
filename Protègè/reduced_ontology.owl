@@ -127,18 +127,18 @@
     <!-- http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/disease-ontology#Disease -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/disease-ontology#Disease">
-        <rdfs:subClassOf>
+        <owl:equivalentClass>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/disease-ontology#hasSpecialty"/>
                 <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/disease-ontology#Specialty"/>
             </owl:Restriction>
-        </rdfs:subClassOf>
-        <rdfs:subClassOf>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/disease-ontology#hasSymptoms"/>
                 <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/helenamontenegro/ontologies/2020/11/disease-ontology#Symptom"/>
             </owl:Restriction>
-        </rdfs:subClassOf>
+        </owl:equivalentClass>
     </owl:Class>
     
 
